@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a CNRS at Ecole Normale Superieure (LSP/DEC/PSL).
+After joining Facebook AI as a research scientist, I am now a CNRS researcher at Ecole Normale Superieure (LSP/DEC/PSL).
 
-My research group focuses on the computational bases of human intelligence using machine learning for electrophysiology, neuroimaging and theoretical modeling.
+My group focuses on the computational bases of human intelligence using machine learning for electrophysiology, neuroimaging and theoretical modeling.
 
 Want to work on the topic? [Contact me!](jeanremi.king@gmail.com)
 
