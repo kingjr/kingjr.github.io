@@ -21,7 +21,7 @@ News
 ---------
 Wyart and King <i>bioRxiv</i> 2019
 
-<b>tl;dr:</b> We measure brain responses to image sequences, and show how the brain recruits a hierarchy of neural processes in order to efficiently encode multiple moments of the past. [Check-out our tweet thread for the illustrated summary](https://twitter.com/jrking0/status/1196808278929526786?ref_src=twsrc%5Etfw)
+<b>tl;dr:</b> We measure brain responses to image sequences, and show how the brain recruits a hierarchy of neural processes in order to efficiently represents multiple snapshots of the past. [Check-out our tweet thread for the illustrated summary](https://twitter.com/jrking0/status/1196808278929526786?ref_src=twsrc%5Etfw)
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;The Human Brain encodes a Chronicle of Visual Events at each Instant of Time&quot;, by <a href="https://twitter.com/valentinwyart?ref_src=twsrc%5Etfw">@valentinwyart</a> and I: the tl;dr thread: <a href="https://t.co/YfLLZ1ZStr">https://t.co/YfLLZ1ZStr</a> <a href="https://t.co/iySGP52al9">pic.twitter.com/iySGP52al9</a></p>&mdash; Jean-Rémi King (@jrking0) <a href="https://twitter.com/jrking0/status/1196808278929526786?ref_src=twsrc%5Etfw">November 19, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
