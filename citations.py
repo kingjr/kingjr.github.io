@@ -26,11 +26,12 @@ for _, paper in papers.iterrows():
     journal = '' if journal == 'nan' else journal
     permalink = '_'.join((year, journal, first_author, first_words))
     txt = '---\n'
-    txt += 'title: %s\n' % paper.Title
+    txt += "title: '%s'\n" % paper.Title
     txt += 'collection: publications\n'
     txt += 'permalink: /publications/%s\n' % permalink
-    txt += 'venue: %s\n' % journal
-    citation = '%s et al (%s) %s, <i>%s</i>'
+    txt += 'venue: "%s"\n' % journal
+    txt += 'date: %s\n' % year
+    citation = "'%s et al (%s) %s, <i>%s</i>'"
     citation = citation % (first_author, year, paper.Title, journal)
 
     if len(paper.Volume):
