@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jean-Remi King"
+title                    : "Jean-Remi KING"
 title_separator          : "-"
 name                     : &name ""
-description              : &description "Jean-Remi King research"
+description              : &description "Jean-Remi King latest research and publications"
 url                      : https://kingjr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/kingjr.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             :
   avatar           : "profile.png"
-  bio              : "Research scientist"
+  bio              : "Jean-Remi King"
   location         : "Ecole Normale Superieure"
   employer         : "CNRS, Facebook AI"
   pubmed           :
