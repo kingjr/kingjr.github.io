@@ -1,14 +1,24 @@
 import os
 import pandas as pd
-
 import re
+import unidecode
 
 
-papers = pd.read_csv('files/citations.csv')
+def format(string):
+    string = unidecode.unidecode(string.replace(' ', '-').lower())
+    return re.sub(r"[^a-z]+\-", '', string)
+
+
+folder = './_publications'
+# https://scholar.google.com/citations?user=XZOgIwEAAAAJ&hl=en&oi=ao
+# export
+papers = pd.read_csv('files/citations.csv')  # download from google scholar
+
+# clean up
 years = papers.Year.fillna(0).astype(int)
 papers = papers.fillna('').astype(str)
-papers['Year'] = years
-folder = './_publications'
+papers['day'] = papers.Publication.apply(lambda x: '-01-0%i' % (x != 'nan'))
+papers['date'] = years.apply(lambda x: str(x) if x > 0 else '') + papers.day
 
 # clear publication
 for filename in os.listdir(folder):
@@ -16,23 +26,26 @@ for filename in os.listdir(folder):
 
 for _, paper in papers.iterrows():
     first_author = paper.Authors.split(',')[0]
-    first_words = '-'.join(paper.Title.split(' ')[:3])
-    first_words = re.sub(r"[^A-Za-z]+", '', first_words)
-    if paper.Year > 0:
-        year = str(paper.Year)
-    else:
-        year = ''
+    first_words = '-'.join(paper.Title.split(' ')[:2])
+
     journal = str(paper.Publication)
     journal = '' if journal == 'nan' else journal
-    permalink = '_'.join((year, journal, first_author, first_words))
+    permalink = '_'.join((paper.date,
+                          format(journal),
+                          format(first_author),
+                          format(first_words)))
     txt = '---\n'
     txt += "title: '%s'\n" % paper.Title
     txt += 'collection: publications\n'
-    txt += 'permalink: /publications/%s\n' % permalink
+    # txt += 'permalink: /publications/%s\n' % permalink
+    txt += 'permalink: "scholar.google.com/citations?user=XZOgIwEAAAAJ&hl=en&oi=ao"\n'  # noqa
+    txt += 'excerpt: ""\n'
+    txt += 'date: %s\n' % paper.date
+    txt += 'authors: %s\n' % paper.Authors
     txt += 'venue: "%s"\n' % journal
-    txt += 'date: %s\n' % year
-    citation = "'%s et al (%s) %s, <i>%s</i>'"
-    citation = citation % (first_author, year, paper.Title, journal)
+    txt += 'paperurl: "scholar.google.com/citations?user=XZOgIwEAAAAJ&hl=en&oi=ao"\n'  # noqa
+    citation = "%s et al (%s) %s, <i>%s</i>"
+    citation = citation % (first_author, paper.Year, paper.Title, journal)
 
     if len(paper.Volume):
         citation += ', %s' % paper.Volume
@@ -41,7 +54,7 @@ for _, paper in papers.iterrows():
     if len(paper.Pages):
         citation += ': %s' % paper.Pages
 
-    txt += 'citation: %s\n' % citation
+    txt += 'citation: "%s"\n' % citation
     txt += '---\n'
     txt += '%s\n' % citation
 
