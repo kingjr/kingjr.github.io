@@ -17,6 +17,25 @@ Want to work on the topic? [Contact me!](jeanremi.king@gmail.com)
 News
 ====
 
+[COVID-19: the promises and pitfalls of Machine Learning ](https://www.nature.com/articles/s42256-020-0181-6)
+
+<b>tl;dr:</b> We're teaming up with the AP-HP hospital to review the the
+promises and pitfalls of Machine Learning.
+
+<blockquote class="twitter-tweet" data-theme="light"><br><br>&quot;<a href="https://twitter.com/hashtag/MachineLearning?src=hash&amp;ref_src=twsrc%5Etfw">#MachineLearning</a> for <a href="https://twitter.com/hashtag/COVID%E3%83%BC19?src=hash&amp;ref_src=twsrc%5Etfw">#COVIDー19</a> needs global collaboration and data-sharing&quot;<br><br>👉<a href="https://t.co/ouY7MYX59p">https://t.co/ouY7MYX59p</a><br><br> <a href="https://twitter.com/hashtag/ArtificialIntelligence?src=hash&amp;ref_src=twsrc%5Etfw">#ArtificialIntelligence</a> <a href="https://twitter.com/hashtag/SARSCoV2?src=hash&amp;ref_src=twsrc%5Etfw">#SARSCoV2</a> <a href="https://t.co/lZsZh8Hqvm">pic.twitter.com/lZsZh8Hqvm</a></p>&mdash; Nathan Peiffer-Smadja (@nathanpsmad) <a href="https://twitter.com/nathanpsmad/status/1263862383308689409?ref_src=twsrc%5Etfw">May 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[Neural dynamics of phoneme sequencing](https://www.biorxiv.org/content/10.1101/2020.04.04.025684v1.full.pdf)
+---------
+<b>tl;dr:</b> Decoding the neural dynamics underlying phonetic representations shows how
+the brain can keep up multiple phonemes until the corresponding word is identified.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">our new paper &quot;Neural dynamics of phoneme sequencing&quot; is now on bioRxiv!<a href="https://t.co/jeTipPTXuf">https://t.co/jeTipPTXuf</a><br><br>conducted with dream-team <a href="https://twitter.com/jrking0?ref_src=twsrc%5Etfw">@jrking0</a> <a href="https://twitter.com/AlecMarantz?ref_src=twsrc%5Etfw">@AlecMarantz</a> <a href="https://twitter.com/davidpoeppel?ref_src=twsrc%5Etfw">@davidpoeppel</a>, we use MEG to study how phonemes are processed in continuous naturalistic speech<br><br>short summary in thread below:<br>1/8 <a href="https://t.co/yT5bN2PfHw">pic.twitter.com/yT5bN2PfHw</a></p>&mdash; Laura Gwilliams (@GwilliamsL) <a href="https://twitter.com/GwilliamsL/status/1247216879992782848?ref_src=twsrc%5Etfw">April 6, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[Intersecting AI and Neuroscience](https://www.ens.psl.eu/actualites/jean-remi-king-entre-ia-et-neurosciences)
+---------
+<blockquote class="twitter-tweet"><p lang="fr" dir="ltr">Entre <a href="https://twitter.com/hashtag/IA?src=hash&amp;ref_src=twsrc%5Etfw">#IA</a> et neurosciences. Rencontre avec Jean-Rémi King <a href="https://twitter.com/jrking0?ref_src=twsrc%5Etfw">@jrking0</a> <a href="https://twitter.com/Cognition_ENS?ref_src=twsrc%5Etfw">@Cognition_ENS</a>, chercheur <a href="https://twitter.com/CNRS?ref_src=twsrc%5Etfw">@CNRS</a> spécialiste du fonctionnement du cerveau humain 🧠 <a href="https://t.co/6hxwyGHECP">https://t.co/6hxwyGHECP</a> <a href="https://t.co/cAnJwbbbCj">pic.twitter.com/cAnJwbbbCj</a></p>&mdash; École normale supérieure | PSL (@ENS_ULM) <a href="https://twitter.com/ENS_ULM/status/1237414108091297796?ref_src=twsrc%5Etfw">March 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 [The Human Brain encodes a Chronicle of Visual Events at each Instant of Time](https://www.biorxiv.org/content/biorxiv/early/2019/11/18/846576.full.pdf)
 ---------
 Wyart and King <i>bioRxiv</i> 2019
