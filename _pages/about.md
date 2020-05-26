@@ -19,6 +19,8 @@ News
 
 [COVID-19: the promises and pitfalls of Machine Learning ](https://www.nature.com/articles/s42256-020-0181-6)
 
+Peiffer-Smadja, Maatoug, Lescure, D’Ortenzio, Pineau & King <i>Nature Machine Intelligence</i> 2020
+
 <b>tl;dr:</b> We're teaming up with the AP-HP hospital to review the the
 promises and pitfalls of Machine Learning.
 
@@ -26,6 +28,7 @@ promises and pitfalls of Machine Learning.
 
 [Neural dynamics of phoneme sequencing](https://www.biorxiv.org/content/10.1101/2020.04.04.025684v1.full.pdf)
 ---------
+Gwilliams, King, Marantz & Poeppel <i>bioRxiv</i> 2020
 <b>tl;dr:</b> Decoding the neural dynamics underlying phonetic representations shows how
 the brain can keep up multiple phonemes until the corresponding word is identified.
 
