@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My group investigates the computational bases of human intelligence, and it particular our perceptual and language processes, using machine learning for electrophysiology, neuroimaging and computational modeling.
+My group investigates the computational bases of human intelligence, and in particular our perceptual and language processes, using machine learning for electrophysiology, neuroimaging and computational modeling.
 
 In my spare time, I am a core developer of [MNE-Python](https://martinos.org/mne/stable/index.html), an open source package for processing human electrophysiological data.
 
