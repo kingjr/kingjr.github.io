@@ -8,14 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-My group investigates the computational bases of human intelligence, and it particular our perceptual and language processes, using machine learning for electrophysiology, neuroimaging and computational modeling.
+My group investigates the computational bases of human intelligence, and in particular our perceptual and language processes, using machine learning for electrophysiology, neuroimaging and computational modeling.
 
 In my spare time, I am a core developer of [MNE-Python](https://martinos.org/mne/stable/index.html), an open source package for processing human electrophysiological data.
 
-Want to work on the topic? [Contact me!](jeanremi.king@gmail.com)
+Want to work on the topic with us? [Contact me!](jeanremi.king@gmail.com)
 
 News
 ====
+
+[Language processing in brains and deep neural networks: computational convergence and its limits](https://www.biorxiv.org/content/10.1101/2020.07.03.186288v1.full.pdf)
+Caucheteux & King <i>bioRxiv</i> 2020
+<b>tl;dr:</b> Do deep nets become increasingly correlated with brain activity as
+they learn to process language? Short answer: only their middle layers do.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Language processing in brains and deep networks: computational convergence and its limits.<br><br>Check out our latest preprint: <a href="https://t.co/HBVkNVtxUl">https://t.co/HBVkNVtxUl</a>, by <a href="https://twitter.com/c_caucheteux?ref_src=twsrc%5Etfw">@c_caucheteux</a> and I <a href="https://t.co/yahwk2fXCY">pic.twitter.com/yahwk2fXCY</a></p>&mdash; Jean-Rémi King (@jrking0) <a href="https://twitter.com/jrking0/status/1280173629280595974?ref_src=twsrc%5Etfw">July 6, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 [COVID-19: the promises and pitfalls of Machine Learning ](https://www.nature.com/articles/s42256-020-0181-6)
 
