@@ -18,8 +18,9 @@ News
 ====
 
 [Language processing in brains and deep neural networks: computational convergence and its limits](https://www.biorxiv.org/content/10.1101/2020.07.03.186288v1.full.pdf)
-Caucheteux & King <i>bioRxiv</i> 2020
 ---------
+
+Caucheteux & King <i>bioRxiv</i> 2020
 
 <b>tl;dr:</b> Do deep nets become increasingly correlated with brain activity as
 they learn to process language? Short answer: only their middle layers do.
