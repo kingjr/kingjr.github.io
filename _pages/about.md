@@ -25,7 +25,7 @@ News
 [Language processing in brains and deep neural networks: computational convergence and its limits](https://www.biorxiv.org/content/10.1101/2020.07.03.186288v1.full.pdf)
 ---------
 
-Caucheteux & King <i>bioRxiv</i> 2020
+Caucheteux & King, <i>bioRxiv</i> 2020
 
 <b>tl;dr:</b> Do deep nets become increasingly correlated with brain activity as
 they learn to process language? Short answer: only their middle layers do.
@@ -36,7 +36,7 @@ they learn to process language? Short answer: only their middle layers do.
 [Back-to-back regression: Disentangling the influence of correlated factors from multivariate observations](https://www.sciencedirect.com/science/article/pii/S1053811920305140)
 ---------
 
-King,, Charton, Lopez-Paz & Oquab <i>Neuroimage</i> 2020
+King, Charton, Lopez-Paz & Oquab, <i>Neuroimage</i> 2020
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Back-to-back regression: Disentangling the influence of correlated factors from multivariate observations.<br><br>Our latest paper with <a href="https://twitter.com/f_charton?ref_src=twsrc%5Etfw">@f_charton</a>, David Lopez Paz &amp; Maxime Oquab at <a href="https://twitter.com/facebookai?ref_src=twsrc%5Etfw">@facebookai</a> is now freely available at Neuroimage: <a href="https://t.co/2hBgODEeAw">https://t.co/2hBgODEeAw</a><br><br>Here&#39;s the summary thread ⤵️ <a href="https://t.co/i1ZLF2dZ5e">pic.twitter.com/i1ZLF2dZ5e</a></p>&mdash; Jean-Rémi King (@jrking0) <a href="https://twitter.com/jrking0/status/1281164558141403137?ref_src=twsrc%5Etfw">July 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -44,7 +44,7 @@ King,, Charton, Lopez-Paz & Oquab <i>Neuroimage</i> 2020
 [COVID-19: the promises and pitfalls of Machine Learning ](https://www.nature.com/articles/s42256-020-0181-6)
 ---------
 
-Peiffer-Smadja, Maatoug, Lescure, D’Ortenzio, Pineau & King <i>Nature Machine Intelligence</i> 2020
+Peiffer-Smadja, Maatoug, Lescure, D’Ortenzio, Pineau & King, <i>Nature Machine Intelligence</i> 2020
 
 <b>tl;dr:</b> We're teaming up with the AP-HP hospital to review the
 promises and pitfalls of Machine Learning.
@@ -53,7 +53,7 @@ promises and pitfalls of Machine Learning.
 
 [Neural dynamics of phoneme sequencing](https://www.biorxiv.org/content/10.1101/2020.04.04.025684v1.full.pdf)
 ---------
-Gwilliams, King, Marantz & Poeppel <i>bioRxiv</i> 2020
+Gwilliams, King, Marantz & Poeppel, <i>bioRxiv</i> 2020
 
 <b>tl;dr:</b> Decoding the neural dynamics underlying phonetic representations shows how
 the brain can keep up multiple phonemes until the corresponding word is identified.
@@ -67,7 +67,7 @@ the brain can keep up multiple phonemes until the corresponding word is identifi
 
 [The Human Brain encodes a Chronicle of Visual Events at each Instant of Time](https://www.biorxiv.org/content/biorxiv/early/2019/11/18/846576.full.pdf)
 ---------
-Wyart and King <i>bioRxiv</i> 2019
+Wyart and King, <i>bioRxiv</i> 2019
 
 <b>tl;dr:</b> We measure brain responses to image sequences, and show how the brain recruits a hierarchy of neural processes in order to efficiently represents multiple snapshots of the past. [Check-out our tweet thread for the illustrated summary](https://twitter.com/jrking0/status/1196808278929526786?ref_src=twsrc%5Etfw)
 
@@ -85,7 +85,7 @@ Gwilliams and King <i>bioRxiv</i> 2019
 
 [Detection of Brain Activation in Unresponsive Patients with Acute Brain Injury](https://www.nejm.org/doi/pdf/10.1056/NEJMoa1812757?casa_token=JfUB9yyfA1YAAAAA:P4OJxqnKvGq2nUo2Nwgv8n68c4uFYoKh22ySy0pQCE6KGb_qO_qdGpG2hcpuwkxaRv1BgWQqsWlxsLE)
 ----
-Claassen et al <i>New England Journal of Medicine</i> 2019
+Claassen et al, <i>New England Journal of Medicine</i> 2019
 
 <b>tl;dr:</b> Acute brain injury patients can sometimes be behaviorally unresponsive. Yet, we show that 15% of them still demonstrate motor-command brain responses.
 
