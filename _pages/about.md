@@ -8,9 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-My group investigates the computational bases of human intelligence, and in particular our perceptual and language processes, using machine learning for electrophysiology, neuroimaging and computational modeling.
+I am a CNRS researcher at the [Department of Cognitive Science of Ecole Normale
+Supérieure](https://lsp.dec.ens.fr/en). My group investigates the computational bases of human intelligence,
+and in particular our perceptual and language processes, using machine learning
+for electrophysiology, neuroimaging and computational modeling.
 
-In my spare time, I am a core developer of [MNE-Python](https://martinos.org/mne/stable/index.html), an open source package for processing human electrophysiological data.
+In my spare time, I am a core developer of
+[MNE-Python](https://martinos.org/mne/stable/index.html), an open source package
+for processing human electrophysiological data.
 
 Want to work on the topic with us? [Contact me!](jeanremi.king@gmail.com)
 
@@ -77,10 +82,3 @@ Claassen et al <i>New England Journal of Medicine</i> 2019
 <b>tl;dr:</b> Acute brain injury patients can sometimes be behaviorally unresponsive. Yet, we show that 15% of them still demonstrate motor-command brain responses.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The covering of our latest study in the New York Times: <a href="https://t.co/7qBuerdsKD">https://t.co/7qBuerdsKD</a> <a href="https://t.co/60Cvpv08d5">pic.twitter.com/60Cvpv08d5</a></p>&mdash; Jean-Rémi King (@jrking0) <a href="https://twitter.com/jrking0/status/1144529142760845312?ref_src=twsrc%5Etfw">June 28, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-<!-- Bio
-===
-I did my PhD with [L. Naccache](https://icm-institute.org/en/team/team-bartolomeo-cohen-naccache/) and [S. Dehaene](http://www.unicog.org/) on diagnosing the state of consciousness of post-comatose patients from their brain activity, and a postdoc at NYU and FIAS with [D. Poeppel](https://wp.nyu.edu/poeppellab/) and [L. Melloni](https://www.aesthetics.mpg.de/en/the-institute/people/lucia-melloni-en.html) on language and perception. I then joined [Facebook AI](https://ai.facebook.com/) as a research scientist.
-
-In my spare time, I am also a core developer of [MNE](https://mne.tools/stable/index.html), an open-source library in Python to analyze time-resolved neural signals. -->
