@@ -33,6 +33,14 @@ they learn to process language? Short answer: only their middle layers do.
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Language processing in brains and deep networks: computational convergence and its limits.<br><br>Check out our latest preprint: <a href="https://t.co/HBVkNVtxUl">https://t.co/HBVkNVtxUl</a>, by <a href="https://twitter.com/c_caucheteux?ref_src=twsrc%5Etfw">@c_caucheteux</a> and I <a href="https://t.co/yahwk2fXCY">pic.twitter.com/yahwk2fXCY</a></p>&mdash; Jean-Rémi King (@jrking0) <a href="https://twitter.com/jrking0/status/1280173629280595974?ref_src=twsrc%5Etfw">July 6, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
+[Back-to-back regression: Disentangling the influence of correlated factors from multivariate observations](https://www.sciencedirect.com/science/article/pii/S1053811920305140)
+---------
+
+King,, Charton, Lopez-Paz & Oquab <i>Neuroimage</i> 2020
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Back-to-back regression: Disentangling the influence of correlated factors from multivariate observations.<br><br>Our latest paper with <a href="https://twitter.com/f_charton?ref_src=twsrc%5Etfw">@f_charton</a>, David Lopez Paz &amp; Maxime Oquab at <a href="https://twitter.com/facebookai?ref_src=twsrc%5Etfw">@facebookai</a> is now freely available at Neuroimage: <a href="https://t.co/2hBgODEeAw">https://t.co/2hBgODEeAw</a><br><br>Here&#39;s the summary thread ⤵️ <a href="https://t.co/i1ZLF2dZ5e">pic.twitter.com/i1ZLF2dZ5e</a></p>&mdash; Jean-Rémi King (@jrking0) <a href="https://twitter.com/jrking0/status/1281164558141403137?ref_src=twsrc%5Etfw">July 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 [COVID-19: the promises and pitfalls of Machine Learning ](https://www.nature.com/articles/s42256-020-0181-6)
 ---------
 
