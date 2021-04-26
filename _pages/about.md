@@ -9,18 +9,39 @@ redirect_from:
 ---
 
 I am a CNRS researcher at the [Department of Cognitive Science of Ecole Normale
-Supérieure](https://lsp.dec.ens.fr/en). My group investigates the computational bases of human intelligence,
+Supérieure](https://lsp.dec.ens.fr/en) detached to Facebook AI Research. My group investigates the computational bases of human intelligence,
 and in particular our perceptual and language processes, using machine learning
 for electrophysiology, neuroimaging and computational modeling.
 
-In my spare time, I am a core developer of
-[MNE-Python](https://martinos.org/mne/stable/index.html), an open source package
-for processing human electrophysiological data.
-
-Want to work on the topic with us? [Contact me!](jeanremi.king@gmail.com)
+Want to work with us? [Contact me!](jeanremi.king@gmail.com)
 
 News
 ====
+
+[Inductive biases, pretraining and fine-tuning jointly account for brain responses to speech](https://arxiv.org/abs/2103.01032)
+---------
+Millet & King, <i>arXiv</i> 2021
+
+<b>tl;dr:</b>Do convolutional networks process speech sounds like our brains does? Short answer: yes, even without training; but training helps.
+
+<blockquote class="twitter-tweet" data-lang="en" data-theme="light"><p lang="en" dir="ltr">Do convolutional networks process speech sounds like our brains does?<br><br>Check out our latest study with Juliette Millet: <a href="https://t.co/dcupYxSxKA">https://t.co/dcupYxSxKA</a><br><br>Here is the summary thread 👇: 1/n <a href="https://t.co/LI6kr8PY9j">pic.twitter.com/LI6kr8PY9j</a></p>&mdash; Jean-Rémi King (@jrking0) <a href="https://twitter.com/jrking0/status/1369230423545548807?ref_src=twsrc%5Etfw">March 9, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+[Deep Recurrent Encoder: A scalable end-to-end network to model brain signals](https://arxiv.org/abs/2103.02339)
+---------
+Chehab*, Defossez*, Loiseau, Gramfort & King, <i>arXiv</i> 2021
+
+<b>tl;dr:</b> We propose a new end-to-end architecture to encode MEG brain signals. It outperforms standard pipelines by a 3X.
+
+<blockquote class="twitter-tweet" data-lang="en" data-theme="light"><p lang="en" dir="ltr">Deep learning improves the analysis of time-resolved brain signals by ... 3️⃣ folds!<br> <br>Check out our latest paper by <a href="https://twitter.com/lomarchehab?ref_src=twsrc%5Etfw">@lomarchehab</a>*, <a href="https://twitter.com/honualx?ref_src=twsrc%5Etfw">@honualx</a>*, <a href="https://twitter.com/loiseau_jc?ref_src=twsrc%5Etfw">@loiseau_jc</a>, and <a href="https://twitter.com/agramfort?ref_src=twsrc%5Etfw">@agramfort</a>:<br> <a href="https://t.co/QxTxoySnBs">https://t.co/QxTxoySnBs</a><br> <br>Below is the summary thread 👇 <a href="https://t.co/h1WcoGm7UD">pic.twitter.com/h1WcoGm7UD</a></p>&mdash; Jean-Rémi King (@jrking0) <a href="https://twitter.com/jrking0/status/1379775034579947520?ref_src=twsrc%5Etfw">April 7, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[Bifurcation in brain dynamics reveals a signature of conscious processing independent of report](https://www.nature.com/articles/s41467-021-21393-z)
+---------
+Sergent, Corazzol, Labouret, Stockart, Wexler,King, Meyniel & Pressnitzer , <i>Nature Communications</i> 2021
+
+<b>tl;dr:</b> We show with EEG that the conscious access follows an all-or-none dynamics even without report.
+
+<blockquote class="twitter-tweet" data-lang="en" data-theme="light"><p lang="en" dir="ltr">Most work on the neural basis of consciousness relies on self-report, however <a href="https://twitter.com/MmeJeanserre?ref_src=twsrc%5Etfw">@MmeJeanserre</a>, <a href="https://twitter.com/jrking0?ref_src=twsrc%5Etfw">@jrking0</a> et al. suggest bifurcation in EEG brain dynamics may reflect an independent signature of conscious perception <a href="https://twitter.com/Univ_Paris?ref_src=twsrc%5Etfw">@Univ_Paris</a> <a href="https://twitter.com/Cognition_ENS?ref_src=twsrc%5Etfw">@Cognition_ENS</a> <a href="https://twitter.com/mne_python?ref_src=twsrc%5Etfw">@mne_python</a> <a href="https://t.co/nHMPaSVxnU">https://t.co/nHMPaSVxnU</a> <a href="https://t.co/n4TXgh2XNt">pic.twitter.com/n4TXgh2XNt</a></p>&mdash; Nature Communications (@NatureComms) <a href="https://twitter.com/NatureComms/status/1363133556080316417?ref_src=twsrc%5Etfw">February 20, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [Language processing in brains and deep neural networks: computational convergence and its limits](https://www.biorxiv.org/content/10.1101/2020.07.03.186288v1.full.pdf)
 ---------
@@ -44,7 +65,7 @@ and encoding analyses.
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Back-to-back regression: Disentangling the influence of correlated factors from multivariate observations.<br><br>Our latest paper with <a href="https://twitter.com/f_charton?ref_src=twsrc%5Etfw">@f_charton</a>, David Lopez Paz &amp; Maxime Oquab at <a href="https://twitter.com/facebookai?ref_src=twsrc%5Etfw">@facebookai</a> is now freely available at Neuroimage: <a href="https://t.co/2hBgODEeAw">https://t.co/2hBgODEeAw</a><br><br>Here&#39;s the summary thread ⤵️ <a href="https://t.co/i1ZLF2dZ5e">pic.twitter.com/i1ZLF2dZ5e</a></p>&mdash; Jean-Rémi King (@jrking0) <a href="https://twitter.com/jrking0/status/1281164558141403137?ref_src=twsrc%5Etfw">July 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-[COVID-19: the promises and pitfalls of Machine Learning ](https://www.nature.com/articles/s42256-020-0181-6)
+[COVID-19: the promises and pitfalls of Machine Learning](https://www.nature.com/articles/s42256-020-0181-6)
 ---------
 
 Peiffer-Smadja, Maatoug, Lescure, D’Ortenzio, Pineau & King, <i>Nature Machine Intelligence</i> 2020
