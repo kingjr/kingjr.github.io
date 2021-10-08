@@ -108,7 +108,7 @@ the brain can keep up multiple phonemes until the corresponding word is identifi
 <blockquote class="twitter-tweet"><p lang="fr" dir="ltr">Entre <a href="https://twitter.com/hashtag/IA?src=hash&amp;ref_src=twsrc%5Etfw">#IA</a> et neurosciences. Rencontre avec Jean-Rémi King <a href="https://twitter.com/jrking0?ref_src=twsrc%5Etfw">@jrking0</a> <a href="https://twitter.com/Cognition_ENS?ref_src=twsrc%5Etfw">@Cognition_ENS</a>, chercheur <a href="https://twitter.com/CNRS?ref_src=twsrc%5Etfw">@CNRS</a> spécialiste du fonctionnement du cerveau humain 🧠 <a href="https://t.co/6hxwyGHECP">https://t.co/6hxwyGHECP</a> <a href="https://t.co/cAnJwbbbCj">pic.twitter.com/cAnJwbbbCj</a></p>&mdash; École normale supérieure | PSL (@ENS_ULM) <a href="https://twitter.com/ENS_ULM/status/1237414108091297796?ref_src=twsrc%5Etfw">March 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-[The Human Brain encodes a Chronicle of Visual Events at each Instant of Time](https://www.biorxiv.org/content/biorxiv/early/2019/11/18/846576.full.pdf)
+[The Human Brain Encodes a Chronicle of Visual Events at Each Instant of Time Through the Multiplexing of Traveling Waves](https://www.jneurosci.org/content/41/34/7224.abstract)
 ---------
 Wyart and King, <i>bioRxiv</i> 2019
 
