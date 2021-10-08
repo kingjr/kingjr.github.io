@@ -17,6 +17,22 @@ Want to work with us? [Contact me!](jeanremi.king@gmail.com)
 
 News
 ====
+[GPT-2’s activations predict the degree of semantic comprehension in the human brain](https://www.biorxiv.org/content/10.1101/2021.04.20.440622v3)
+----------
+Caucheteux, Gramfort & King, <i>bioRxiv</i> 2021
+
+<b>tl;dr:</b>The more we understand text, the more our brain responds like GPT-2.
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Our latest paper is out: <br><br>GPT-2’s activations predict the degree of semantic comprehension in the human brain, by <a href="https://twitter.com/c_caucheteux?ref_src=twsrc%5Etfw">@c_caucheteux</a>, <a href="https://twitter.com/agramfort?ref_src=twsrc%5Etfw">@agramfort</a> &amp; <a href="https://twitter.com/jrking0?ref_src=twsrc%5Etfw">@jrking0</a><a href="https://t.co/Xjc8IaXT64">https://t.co/Xjc8IaXT64</a><br> <br>The summary thread below 👇 <br>1/8 <a href="https://t.co/GF39doySMu">pic.twitter.com/GF39doySMu</a></p>&mdash; Jean-Rémi King (@jrking0) <a href="https://twitter.com/jrking0/status/1402611813032857612?ref_src=twsrc%5Etfw">June 9, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[Disentangling Syntax and Semantics in the Brain with Deep Networks](http://proceedings.mlr.press/v139/caucheteux21a.html)
+Caucheteux, Gramfort & King, <i>ICML</i> 2021
+
+<b>tl;dr:</b>The similarity between deep nets and the brain allow us to decompose syntax and semantics in the brain.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Disentangling Syntax and Semantics in the Brain with Deep Networks&quot;<br><br>Go check out our latest <a href="https://twitter.com/icmlconf?ref_src=twsrc%5Etfw">@icmlconf</a> paper : <a href="https://t.co/4YPK7vJRsJ">https://t.co/4YPK7vJRsJ</a><br>by <a href="https://twitter.com/c_caucheteux?ref_src=twsrc%5Etfw">@c_caucheteux</a>, <a href="https://twitter.com/agramfort?ref_src=twsrc%5Etfw">@agramfort</a> &amp; <a href="https://twitter.com/jrking0?ref_src=twsrc%5Etfw">@jrking0</a><br><br>The summary thread below 👇 <a href="https://t.co/v0kxjtBtVP">pic.twitter.com/v0kxjtBtVP</a></p>&mdash; Jean-Rémi King (@jrking0) <a href="https://twitter.com/jrking0/status/1418216893182185473?ref_src=twsrc%5Etfw">July 22, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 [Inductive biases, pretraining and fine-tuning jointly account for brain responses to speech](https://arxiv.org/abs/2103.01032)
 ---------
