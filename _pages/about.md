@@ -8,12 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a CNRS researcher at the [Department of Cognitive Science of Ecole Normale
-Supérieure](https://lsp.dec.ens.fr/en) detached to Facebook AI Research. My group investigates the computational bases of human intelligence,
-and in particular our perceptual and language processes, using machine learning
-for electrophysiology, neuroimaging and computational modeling.
-
-Want to work with us? [Contact me!](jeanremi.king@gmail.com)
+I am a CNRS researcher at the Ecole Normale Supérieure detached to Facebook AI Research.
+My group works on understanding the brain and computational bases of human intelligence.
+We develop deep learning techniques to decode and model intracranial recordings, magneto-encephalography and functional magnetic resonance imaging in response to perceptual and language paradigms.
 
 News
 ====
