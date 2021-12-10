@@ -8,12 +8,30 @@ redirect_from:
   - /about.html
 ---
 
-I am a CNRS researcher at the Ecole Normale Supérieure detached to Facebook AI Research.
-My group works on understanding the brain and computational bases of human intelligence.
-We develop deep learning techniques to decode and model intracranial recordings, magneto-encephalography and functional magnetic resonance imaging in response to perceptual and language paradigms.
+I am a CNRS researcher at the Ecole Normale Supérieure detached to Meta AI.
+My group works on understanding the brain and computational bases of human intelligence, with a focus on language.
+We develop deep learning techniques to decode and model intracranial recordings, magneto-encephalography and functional magnetic resonance imaging.
 
 News
 ====
+
+
+[Long-range and hierarchical language predictions in brains and algorithms](https://arxiv.org/abs/2111.14232)
+---------
+Caucheteux, Gramfort & King, <i>arXiv</i> 2021
+
+<b>tl;dr:</b>We track language predictions in the brain and show that, unlike modern algorithms, they are hierarchical and apply to a variety of temporal scopes.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">‘Long-range and hierarchical language predictions in brains and algorithms’<br> <br>Check-out our latest paper <a href="https://t.co/rwfVCVLRWA">https://t.co/rwfVCVLRWA</a> by <a href="https://twitter.com/c_caucheteux?ref_src=twsrc%5Etfw">@c_caucheteux</a> <a href="https://twitter.com/agramfort?ref_src=twsrc%5Etfw">@agramfort</a> <a href="https://twitter.com/jrking0?ref_src=twsrc%5Etfw">@jrking0</a><br> <br>tl;dr: Unlike deep language models, the brain makes long-range &amp; hierarchical predictions<br> <br>Thread below👇 <a href="https://t.co/iP0BEYBjip">pic.twitter.com/iP0BEYBjip</a></p>&mdash; Jean-Rémi King (@jrking0) <a href="https://twitter.com/jrking0/status/1465716332264103940?ref_src=twsrc%5Etfw">November 30, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[Model-based analysis of brain activity reveals the hierarchy of language](https://hal.inria.fr/hal-03361430)
+---------
+Caucheteux, Gramfort & King, <i>EMNLP</i> 2021
+
+<b>tl;dr:</b>We show how deep language algorithms help reveal the hierarchical organization of language integration in the brain.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Model-based analysis of brain activity reveals the hierarchy of language&quot;<br><br>Our EMNLP paper by <a href="https://twitter.com/c_caucheteux?ref_src=twsrc%5Etfw">@c_caucheteux</a> <a href="https://twitter.com/agramfort?ref_src=twsrc%5Etfw">@agramfort</a> &amp; myself is out: <a href="https://t.co/BxvrbZNkPt">https://t.co/BxvrbZNkPt</a><br><br>It shows (w/ emoji-based equations!) how deepnets can efficiently recover the language hierarchy in the<br><br>Summary👇<br>1/7 <a href="https://t.co/3QOcTfsivu">pic.twitter.com/3QOcTfsivu</a></p>&mdash; Jean-Rémi King (@jrking0) <a href="https://twitter.com/jrking0/status/1447909791435825159?ref_src=twsrc%5Etfw">October 12, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 [GPT-2’s activations predict the degree of semantic comprehension in the human brain](https://www.biorxiv.org/content/10.1101/2021.04.20.440622v3)
 ---------
