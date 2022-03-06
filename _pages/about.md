@@ -15,6 +15,12 @@ We develop deep learning techniques to decode and model intracranial recordings,
 News
 ====
 
+[Brains and algorithms partially converge in natural language processing](https://www.nature.com/articles/s42003-022-03036-1)
+---------
+Caucheteux, King, <i>Nature Communications Biology</i> 2022
+
+<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">🎉Paper out: ‘Brains and algorithms partially converge in natural language processing’<br> <br>by <a href="https://twitter.com/c_caucheteux?ref_src=twsrc%5Etfw">@c_caucheteux</a>, and now freely available at Nature <a href="https://twitter.com/CommsBio?ref_src=twsrc%5Etfw">@CommsBio</a>:<a href="https://t.co/MpenOUaKwS">https://t.co/MpenOUaKwS</a><br> <br>The summary thread below 👇 <a href="https://t.co/gMruZgGIOv">pic.twitter.com/gMruZgGIOv</a></p>&mdash; Jean-Rémi King (@JeanRemiKing) <a href="https://twitter.com/JeanRemiKing/status/1496425017474695169?ref_src=twsrc%5Etfw">February 23, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 [Long-range and hierarchical language predictions in brains and algorithms](https://arxiv.org/abs/2111.14232)
 ---------
