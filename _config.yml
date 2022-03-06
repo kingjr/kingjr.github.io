@@ -83,8 +83,8 @@ author:
   name             :
   avatar           : "profile.png"
   bio              : "Jean-Remi King"
-  location         : "Paris"
-  employer         : "Meta AI"
+  location         :
+  employer         : "Meta AI / CNRS"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=XZOgIwEAAAAJ&hl=en&oi=ao"
   email            : "jeanremi.king@gmail.com"
