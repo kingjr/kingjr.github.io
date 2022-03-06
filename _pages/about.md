@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a CNRS researcher at the Ecole Normale Supérieure detached to Meta AI.
-My group works on understanding the brain and computational bases of human intelligence, with a focus on language.
+I am a CNRS researcher at the Ecole Normale Supérieure detached to Meta AI, where I lead the Brain & AI group.
+We work on identifying the brain and computational bases of human intelligence, with a focus on language.
 We develop deep learning techniques to decode and model intracranial recordings, magneto-encephalography and functional magnetic resonance imaging.
 
 News
@@ -125,7 +125,7 @@ the brain can keep up multiple phonemes until the corresponding word is identifi
 
 [The Human Brain Encodes a Chronicle of Visual Events at Each Instant of Time Through the Multiplexing of Traveling Waves](https://www.jneurosci.org/content/41/34/7224.abstract)
 ---------
-Wyart and King, <i>bioRxiv</i> 2019
+Wyart and King, <i>Journal of Neuroscience</i> 2021
 
 <b>tl;dr:</b> We measure brain responses to image sequences, and show how the brain recruits a hierarchy of neural processes in order to efficiently represents multiple snapshots of the past. [Check-out our tweet thread for the illustrated summary](https://twitter.com/JeanRemiKing/status/1196808278929526786?ref_src=twsrc%5Etfw)
 
