@@ -63,8 +63,6 @@ for pubsource in publist:
 
         try:
             pub_year = f'{b["year"]}'
-            if pub_year == "1900":
-                raise
 
             # todo: this hack for month and day needs some cleanup
             if "month" in b.keys():
