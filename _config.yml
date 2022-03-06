@@ -59,7 +59,7 @@ yandex_site_verification :
 twitter:
   username               : JeanRemiKing
 facebook:
-  username               :
+  username               : jeanremi.king
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -83,8 +83,8 @@ author:
   name             :
   avatar           : "profile.png"
   bio              : "Jean-Remi King"
-  location         : "CNRS (researcher)"
-  employer         : "Facebook AI"
+  location         : "Paris"
+  employer         : "Meta AI"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=XZOgIwEAAAAJ&hl=en&oi=ao"
   email            : "jeanremi.king@gmail.com"
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "jeanremi.king"
   foursquare       :
   github           : "kingjr"
   google_plus      :
