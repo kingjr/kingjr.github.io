@@ -17,7 +17,7 @@ News
 
 [Toward a realistic model of speech processing in the brain with self-supervised learning](https://arxiv.org/abs/2206.01685)
 ---------
-Millet*, Caucheteux*, Orhan, Boubenec, Gramfort, Dunbar, Pallier & King, <i>arXiv</i> 2022
+Millet\*, Caucheteux\*, Orhan, Boubenec, Gramfort, Dunbar, Pallier & King, <i>arXiv</i> 2022
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">🔥Preprint out: <br><br>`Toward a realistic model of speech processing in the brain with self-supervised learning’:<a href="https://t.co/rJH6t6H6sm">https://t.co/rJH6t6H6sm</a><br><br>by J. Millet*, <a href="https://twitter.com/c_caucheteux?ref_src=twsrc%5Etfw">@c_caucheteux</a>* and our wonderful team:<br><br>The 3 main results summarized below 👇 <a href="https://t.co/mdrJpbrb3M">pic.twitter.com/mdrJpbrb3M</a></p>&mdash; Jean-Rémi King (@JeanRemiKing) <a href="https://twitter.com/JeanRemiKing/status/1533720262344073218?ref_src=twsrc%5Etfw">June 6, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -77,7 +77,7 @@ Millet & King, <i>arXiv</i> 2021
 
 [Deep Recurrent Encoder: A scalable end-to-end network to model brain signals](https://arxiv.org/abs/2103.02339)
 ---------
-Chehab*, Defossez*, Loiseau, Gramfort & King, <i>arXiv</i> 2021
+Chehab\*, Defossez\*, Loiseau, Gramfort & King, <i>arXiv</i> 2021
 
 <b>tl;dr:</b> We propose a new end-to-end architecture to encode MEG brain signals. It outperforms standard pipelines by a 3X.
 
