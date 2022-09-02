@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jean-Remi KING"
+title                    : "Jean-Rémi KING"
 title_separator          : "-"
 name                     : &name ""
-description              : &description "Jean-Remi King latest research and publications"
+description              : &description "Jean-Remi King latest research"
 url                      : https://kingjr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/kingjr.github.io"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/jean-r%C3%A9mi-king-690388247/"
   orcid            : "http://orcid.org/0000-0002-2121-170X"
   pinterest        :
   soundcloud       :
@@ -178,9 +178,9 @@ collections:
   # teaching:
   #   output: true
   #   permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
+  # publications:
+  #   output: true
+  #   permalink: /:collection/:path/
   # portfolio:
   #   output: true
   #   permalink: /:collection/:path/
