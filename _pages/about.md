@@ -8,12 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a CNRS researcher at the Ecole Normale Supérieure detached to Meta AI, where I lead the Brain & AI group.
+I am a CNRS researcher at the Ecole Normale Supérieure currently detached to Meta AI, where I lead the Brain & AI group.
 We work on identifying the brain and computational bases of human intelligence, with a focus on language.
 We develop deep learning techniques to decode and model intracranial recordings, magneto-encephalography and functional magnetic resonance imaging.
 
 News
 ====
+
+[Decoding speech from non-invasive brain recordings](https://arxiv.org/abs/2208.12266)
+---------
+Défossez, Caucheteux, Kabeli, Rapni & King, <i>arXiv</i> 2022
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">“Decoding speech from non-invasive brain recordings”,<br><br>Our latest study (on 169 participants!), by <a href="https://twitter.com/honualx?ref_src=twsrc%5Etfw">@honualx</a> and our wonderful team <a href="https://twitter.com/MetaAI?ref_src=twsrc%5Etfw">@MetaAI</a><br><br>- paper: <a href="https://t.co/QiB7Io8af8">https://t.co/QiB7Io8af8</a><br>- blog: <a href="https://t.co/H2W4prbbuD">https://t.co/H2W4prbbuD</a><br>- illustrated summary: below👇 <a href="https://t.co/39eMnJ4IDv">pic.twitter.com/39eMnJ4IDv</a></p>&mdash; Jean-Rémi King (@JeanRemiKing) <a href="https://twitter.com/JeanRemiKing/status/1564964019965927424?ref_src=twsrc%5Etfw">August 31, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 [Toward a realistic model of speech processing in the brain with self-supervised learning](https://arxiv.org/abs/2206.01685)
 ---------
