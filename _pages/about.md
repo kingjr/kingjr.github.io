@@ -19,10 +19,10 @@ For this, we develop deep learning models to decode and analyze intracranial rec
 
 Press:
 ====
-- [Pour la Science](https://www.pourlascience.fr/sd/informatique/quand-les-ia-miment-l-activite-cerebrale-24554.php): Quand les IA miment l’activité cérébrale.
-- [La Recherche](https://www.larecherche.fr/decrypter-les-reseaux-du-langage-dans-le-cerveau): Décrypter les réseaux du langage dans le cerveau.
 - [Time Magazine](https://time.com/6210261/meta-ai-brains-speech/): Meta Is Building AI That Reads Brainwaves. The Reality, So Far, Is Messy.
 - [Meta AI](https://ai.facebook.com/blog/ai-speech-brain-activity/): Using AI to decode speech from brain activity.
+- [Pour la Science](https://www.pourlascience.fr/sd/informatique/quand-les-ia-miment-l-activite-cerebrale-24554.php): Quand les IA miment l’activité cérébrale.
+- [La Recherche](https://www.larecherche.fr/decrypter-les-reseaux-du-langage-dans-le-cerveau): Décrypter les réseaux du langage dans le cerveau.
 - [Towards Data Science Podcast](https://towardsdatascience.com/does-the-brain-run-on-deep-learning-3fbaf20e9d12): Does the brain run on deep learning?
 - [Quanta Magazine](https://www.quantamagazine.org/self-taught-ai-shows-similarities-to-how-the-brain-works-20220811/): Self-Taught AI Shows Similarities to How the Brain Works.
 - [Meta AI](https://ai.facebook.com/blog/studying-the-brain-to-build-ai-that-processes-language-as-people-do/): Studying the brain to build AI that processes language as people do.
