@@ -31,12 +31,12 @@ Press
 - [CBC News](https://www.cbc.ca/news/science/brain-subliminal-images-1.3879282): Your brain registers more than you think you see, NYU researchers find.
 
 
-Our work summarized in short visual threads: 👇
+Our work summarized in short visual threads
 ====
 
 <details open markdown=block style="background-color: rgb(70, 70, 70);">
 <summary markdown=span>
-Decoding speech from non-invasive brain recordings,
+Decoding speech from non-invasive brain recordings, 👇
 <i>[arXiv](https://arxiv.org/abs/2208.12266)</i> 2022
 </summary>
 [Défossez](https://ai.honu.io/), [Caucheteux](https://charlottecaucheteux.github.io/), Kabeli, Rapin & [King](https://kingjr.github.io/)
@@ -55,6 +55,7 @@ Decoding speech from non-invasive brain recordings,
 <details open markdown=block>
 <summary markdown=span>
 Brains and algorithms partially converge in natural language processing,
+<i>[bioRxiv](https://www.biorxiv.org/content/10.1101/2020.07.03.186288v1.full.pdf)</i> 2020,
 <i>[Nature Communications Biology](https://www.nature.com/articles/s42003-022-03036-1)</i> 2022
 </summary>
 [Caucheteux](https://charlottecaucheteux.github.io/) & [King](https://kingjr.github.io/)
@@ -155,22 +156,6 @@ Bifurcation in brain dynamics reveals a signature of conscious processing indepe
 
 <blockquote class="twitter-tweet" data-lang="en" data-theme="light"><p lang="en" dir="ltr">Most work on the neural basis of consciousness relies on self-report, however <a href="https://twitter.com/MmeJeanserre?ref_src=twsrc%5Etfw">@MmeJeanserre</a>, <a href="https://twitter.com/JeanRemiKing?ref_src=twsrc%5Etfw">@JeanRemiKing</a> et al. suggest bifurcation in EEG brain dynamics may reflect an independent signature of conscious perception <a href="https://twitter.com/Univ_Paris?ref_src=twsrc%5Etfw">@Univ_Paris</a> <a href="https://twitter.com/Cognition_ENS?ref_src=twsrc%5Etfw">@Cognition_ENS</a> <a href="https://twitter.com/mne_python?ref_src=twsrc%5Etfw">@mne_python</a> <a href="https://t.co/nHMPaSVxnU">https://t.co/nHMPaSVxnU</a> <a href="https://t.co/n4TXgh2XNt">pic.twitter.com/n4TXgh2XNt</a></p>&mdash; Nature Communications (@NatureComms) <a href="https://twitter.com/NatureComms/status/1363133556080316417?ref_src=twsrc%5Etfw">February 20, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></details>
 
-
-<details markdown=block>
-<summary markdown=span>
-Brains and algorithms partially converge in natural language processing,
-<i>[bioRxiv](https://www.biorxiv.org/content/10.1101/2020.07.03.186288v1.full.pdf)</i> 2020,
-<i>[Nature Communication Biology](https://www.nature.com/articles/s42003-022-03036-1)</i> 2022
-</summary>
-
-
-[Caucheteux](https://charlottecaucheteux.github.io/) & [King](https://kingjr.github.io/)
-
-<b>tl;dr:</b> Do deep nets become increasingly correlated with brain activity as
-they learn to process language? Short answer: only their middle layers do.
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Language processing in brains and deep networks: computational convergence and its limits.<br><br>Check out our latest preprint: <a href="https://t.co/HBVkNVtxUl">https://t.co/HBVkNVtxUl</a>, by <a href="https://twitter.com/c_caucheteux?ref_src=twsrc%5Etfw">@c_caucheteux</a> and I <a href="https://t.co/yahwk2fXCY">pic.twitter.com/yahwk2fXCY</a></p>&mdash; Jean-Rémi King (@JeanRemiKing) <a href="https://twitter.com/JeanRemiKing/status/1280173629280595974?ref_src=twsrc%5Etfw">July 6, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</details>
 
 
 <details markdown=block>
