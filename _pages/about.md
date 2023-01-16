@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a CNRS researcher at the [École Normale Supérieure](https://lsp.dec.ens.fr/fr) currently detached to [Meta AI](https://ai.facebook.com/), where I lead the Brain & AI team.
+I am a CNRS researcher at [École Normale Supérieure](https://lsp.dec.ens.fr/fr) currently detached to [Meta AI](https://ai.facebook.com/), where I lead the Brain & AI team.
 This team is dedicated to identify the brain and computational bases of human intelligence, with a focus on language.
 For this, we develop deep learning models to decode and analyze intracranial recordings, magneto-encephalography and functional magnetic resonance imaging.
 
