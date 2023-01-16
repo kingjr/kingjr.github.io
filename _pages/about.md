@@ -12,20 +12,17 @@ I am a CNRS researcher at the [École Normale Supérieure](https://lsp.dec.ens.f
 This team is dedicated to identify the brain and computational bases of human intelligence, with a focus on language.
 For this, we develop deep learning models to decode and analyze intracranial recordings, magneto-encephalography and functional magnetic resonance imaging.
 
-[CV](https://kingjr.github.io/files/JeanRemi_King_CV.pdf)
-[Publications](https://scholar.google.com/citations?hl=en&user=XZOgIwEAAAAJ&view_op=list_works&sortby=pubdate)
-
 Press
 ====
-- [New York Times](https://www.nytimes.com/2019/06/26/health/brain-injury-eeg-consciousness.html): ‘It’s Gigantic’: A New Way to Gauge the Chances for Unresponsive Patients
-- [Meta AI](https://ai.facebook.com/blog/studying-the-brain-to-build-ai-that-processes-language-as-people-do/): Studying the brain to build AI that processes language as people do.
-- [Quanta Magazine](https://www.quantamagazine.org/self-taught-ai-shows-similarities-to-how-the-brain-works-20220811/): Self-Taught AI Shows Similarities to How the Brain Works.
-- [Towards Data Science Podcast](https://towardsdatascience.com/does-the-brain-run-on-deep-learning-3fbaf20e9d12): Does the brain run on deep learning?
-- [Meta AI](https://ai.facebook.com/blog/ai-speech-brain-activity/): Using AI to decode speech from brain activity.
-- [Time Magazine](https://time.com/6210261/meta-ai-brains-speech/): Meta Is Building AI That Reads Brainwaves. The Reality, So Far, Is Messy.
-- [La Recherche](https://www.larecherche.fr/decrypter-les-reseaux-du-langage-dans-le-cerveau): Décrypter les réseaux du langage dans le cerveau.
 - [Pour la Science](https://www.pourlascience.fr/sd/informatique/quand-les-ia-miment-l-activite-cerebrale-24554.php): Quand les IA miment l’activité cérébrale.
-
+- [La Recherche](https://www.larecherche.fr/decrypter-les-reseaux-du-langage-dans-le-cerveau): Décrypter les réseaux du langage dans le cerveau.
+- [Time Magazine](https://time.com/6210261/meta-ai-brains-speech/): Meta Is Building AI That Reads Brainwaves. The Reality, So Far, Is Messy.
+- [Meta AI](https://ai.facebook.com/blog/ai-speech-brain-activity/): Using AI to decode speech from brain activity.
+- [Towards Data Science Podcast](https://towardsdatascience.com/does-the-brain-run-on-deep-learning-3fbaf20e9d12): Does the brain run on deep learning?
+- [Quanta Magazine](https://www.quantamagazine.org/self-taught-ai-shows-similarities-to-how-the-brain-works-20220811/): Self-Taught AI Shows Similarities to How the Brain Works.
+- [Meta AI](https://ai.facebook.com/blog/studying-the-brain-to-build-ai-that-processes-language-as-people-do/): Studying the brain to build AI that processes language as people do.
+- [New York Times](https://www.nytimes.com/2019/06/26/health/brain-injury-eeg-consciousness.html): ‘It’s Gigantic’: A New Way to Gauge the Chances for Unresponsive Patients
+- [CBC News](https://www.cbc.ca/news/science/brain-subliminal-images-1.3879282): Your brain registers more than you think you see, NYU researchers find.
 
 Recent works
 ====
