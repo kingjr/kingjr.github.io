@@ -34,7 +34,7 @@ Press
 Our work summarized in short visual threads: 👇
 ====
 
-<details markdown=block>
+<details open markdown=block style="background-color: rgb(70, 70, 70);">
 <summary markdown=span>
 Decoding speech from non-invasive brain recordings,
 <i>[arXiv](https://arxiv.org/abs/2208.12266)</i> 2022
@@ -44,7 +44,7 @@ Decoding speech from non-invasive brain recordings,
 </details>
 
 
-<details markdown=block>
+<details open markdown=block>
 <summary markdown=span>Toward a realistic model of speech processing in the brain with self-supervised learning, <i>[arXiv](https://arxiv.org/abs/2206.01685)</i> 2022
 </summary>
 [Millet](https://jamju.github.io/)\*, [Caucheteux](https://charlottecaucheteux.github.io/)\*, Orhan, [Boubenec](https://lsp.dec.ens.fr/en/member/616/yves-boubenec), [Gramfort](https://alexandre.gramfort.net/), [Dunbar](http://individual.utoronto.ca/ewan_dunbar/), [Pallier](https://www.pallier.org/) & [King](https://kingjr.github.io/)
@@ -52,7 +52,7 @@ Decoding speech from non-invasive brain recordings,
 </details>
 
 
-<details markdown=block>
+<details open markdown=block>
 <summary markdown=span>
 Brains and algorithms partially converge in natural language processing,
 <i>[Nature Communications Biology](https://www.nature.com/articles/s42003-022-03036-1)</i> 2022
