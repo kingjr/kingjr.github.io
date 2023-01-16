@@ -36,29 +36,29 @@ Our work summarized in short visual threads: 👇
 
 [Decoding speech from non-invasive brain recordings](https://arxiv.org/abs/2208.12266)
 ---------
-Défossez, Caucheteux, Kabeli, Rapin & King, <i>arXiv</i> 2022
+[Défossez](https://ai.honu.io/), [Caucheteux](https://charlottecaucheteux.github.io/), Kabeli, Rapin & [King](https://kingjr.github.io/), <i>arXiv</i> 2022
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">“Decoding speech from non-invasive brain recordings”,<br><br>Our latest study (on 169 participants!), by <a href="https://twitter.com/honualx?ref_src=twsrc%5Etfw">@honualx</a> and our wonderful team <a href="https://twitter.com/MetaAI?ref_src=twsrc%5Etfw">@MetaAI</a><br><br>- paper: <a href="https://t.co/QiB7Io8af8">https://t.co/QiB7Io8af8</a><br>- blog: <a href="https://t.co/H2W4prbbuD">https://t.co/H2W4prbbuD</a><br>- illustrated summary: below👇 <a href="https://t.co/39eMnJ4IDv">pic.twitter.com/39eMnJ4IDv</a></p>&mdash; Jean-Rémi King (@JeanRemiKing) <a href="https://twitter.com/JeanRemiKing/status/1564964019965927424?ref_src=twsrc%5Etfw">August 31, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 [Toward a realistic model of speech processing in the brain with self-supervised learning](https://arxiv.org/abs/2206.01685)
 ---------
-Millet\*, Caucheteux\*, Orhan, Boubenec, Gramfort, Dunbar, Pallier & King, <i>arXiv</i> 2022
+[Millet](https://jamju.github.io/)\*, [Caucheteux](https://charlottecaucheteux.github.io/)\*, Orhan, [Boubenec](https://lsp.dec.ens.fr/en/member/616/yves-boubenec), [Gramfort](https://alexandre.gramfort.net/), [Dunbar](http://individual.utoronto.ca/ewan_dunbar/), [Pallier](https://www.pallier.org/) & [King](https://kingjr.github.io/), <i>arXiv</i> 2022
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">🔥Preprint out: <br><br>`Toward a realistic model of speech processing in the brain with self-supervised learning’:<a href="https://t.co/rJH6t6H6sm">https://t.co/rJH6t6H6sm</a><br><br>by J. Millet*, <a href="https://twitter.com/c_caucheteux?ref_src=twsrc%5Etfw">@c_caucheteux</a>* and our wonderful team:<br><br>The 3 main results summarized below 👇 <a href="https://t.co/mdrJpbrb3M">pic.twitter.com/mdrJpbrb3M</a></p>&mdash; Jean-Rémi King (@JeanRemiKing) <a href="https://twitter.com/JeanRemiKing/status/1533720262344073218?ref_src=twsrc%5Etfw">June 6, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">🔥Preprint out: <br><br>`Toward a realistic model of speech processing in the brain with self-supervised learning’:<a href="https://t.co/rJH6t6H6sm">https://t.co/rJH6t6H6sm</a><br><br>by J. [Millet](https://jamju.github.io/)*, <a href="https://twitter.com/c_caucheteux?ref_src=twsrc%5Etfw">@c_caucheteux</a>* and our wonderful team:<br><br>The 3 main results summarized below 👇 <a href="https://t.co/mdrJpbrb3M">pic.twitter.com/mdrJpbrb3M</a></p>&mdash; Jean-Rémi King (@JeanRemiKing) <a href="https://twitter.com/JeanRemiKing/status/1533720262344073218?ref_src=twsrc%5Etfw">June 6, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 
 [Brains and algorithms partially converge in natural language processing](https://www.nature.com/articles/s42003-022-03036-1)
 ---------
-Caucheteux, King, <i>Nature Communications Biology</i> 2022
+[Caucheteux](https://charlottecaucheteux.github.io/) & [King](https://kingjr.github.io/), <i>Nature Communications Biology</i> 2022
 
 <blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">🎉Paper out: ‘Brains and algorithms partially converge in natural language processing’<br> <br>by <a href="https://twitter.com/c_caucheteux?ref_src=twsrc%5Etfw">@c_caucheteux</a>, and now freely available at Nature <a href="https://twitter.com/CommsBio?ref_src=twsrc%5Etfw">@CommsBio</a>:<a href="https://t.co/MpenOUaKwS">https://t.co/MpenOUaKwS</a><br> <br>The summary thread below 👇 <a href="https://t.co/gMruZgGIOv">pic.twitter.com/gMruZgGIOv</a></p>&mdash; Jean-Rémi King (@JeanRemiKing) <a href="https://twitter.com/JeanRemiKing/status/1496425017474695169?ref_src=twsrc%5Etfw">February 23, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 [Long-range and hierarchical language predictions in brains and algorithms](https://arxiv.org/abs/2111.14232)
 ---------
-Caucheteux, Gramfort & King, <i>arXiv</i> 2021
+[Caucheteux](https://charlottecaucheteux.github.io/), [Gramfort](https://alexandre.gramfort.net/) & [King](https://kingjr.github.io/), <i>arXiv</i> 2021
 
 <b>tl;dr:</b>We track language predictions in the brain and show that, unlike modern algorithms, they are hierarchical and apply to a variety of temporal scopes.
 
@@ -66,7 +66,7 @@ Caucheteux, Gramfort & King, <i>arXiv</i> 2021
 
 [Model-based analysis of brain activity reveals the hierarchy of language](https://hal.inria.fr/hal-03361430)
 ---------
-Caucheteux, Gramfort & King, <i>EMNLP</i> 2021
+[Caucheteux](https://charlottecaucheteux.github.io/), [Gramfort](https://alexandre.gramfort.net/) & [King](https://kingjr.github.io/), <i>EMNLP</i> 2021
 
 <b>tl;dr:</b>We show how deep language algorithms help reveal the hierarchical organization of language integration in the brain.
 
@@ -75,7 +75,7 @@ Caucheteux, Gramfort & King, <i>EMNLP</i> 2021
 
 [GPT-2’s activations predict the degree of semantic comprehension in the human brain](https://www.biorxiv.org/content/10.1101/2021.04.20.440622v3)
 ---------
-Caucheteux, Gramfort & King, <i>bioRxiv</i> 2021
+[Caucheteux](https://charlottecaucheteux.github.io/), [Gramfort](https://alexandre.gramfort.net/) & [King](https://kingjr.github.io/), <i>bioRxiv</i> 2021
 
 <b>tl;dr:</b>The more we understand text, the more our brain responds like GPT-2.
 
@@ -85,7 +85,7 @@ Caucheteux, Gramfort & King, <i>bioRxiv</i> 2021
 
 [Disentangling Syntax and Semantics in the Brain with Deep Networks](http://proceedings.mlr.press/v139/caucheteux21a.html)
 ---------
-Caucheteux, Gramfort & King, <i>ICML</i> 2021
+[Caucheteux](https://charlottecaucheteux.github.io/), [Gramfort](https://alexandre.gramfort.net/) & [King](https://kingjr.github.io/), <i>ICML</i> 2021
 
 <b>tl;dr:</b>The similarity between deep nets and the brain allow us to decompose syntax and semantics in the brain.
 
@@ -94,16 +94,16 @@ Caucheteux, Gramfort & King, <i>ICML</i> 2021
 
 [Inductive biases, pretraining and fine-tuning jointly account for brain responses to speech](https://arxiv.org/abs/2103.01032)
 ---------
-Millet & King, <i>arXiv</i> 2021
+[Millet](https://jamju.github.io/) & [King](https://kingjr.github.io/), <i>arXiv</i> 2021
 
 <b>tl;dr:</b>Do convolutional networks process speech sounds like our brains does? Short answer: yes, even without training; but training helps.
 
-<blockquote class="twitter-tweet" data-lang="en" data-theme="light"><p lang="en" dir="ltr">Do convolutional networks process speech sounds like our brains does?<br><br>Check out our latest study with Juliette Millet: <a href="https://t.co/dcupYxSxKA">https://t.co/dcupYxSxKA</a><br><br>Here is the summary thread 👇: 1/n <a href="https://t.co/LI6kr8PY9j">pic.twitter.com/LI6kr8PY9j</a></p>&mdash; Jean-Rémi King (@JeanRemiKing) <a href="https://twitter.com/JeanRemiKing/status/1369230423545548807?ref_src=twsrc%5Etfw">March 9, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-lang="en" data-theme="light"><p lang="en" dir="ltr">Do convolutional networks process speech sounds like our brains does?<br><br>Check out our latest study with Juliette [Millet](https://jamju.github.io/): <a href="https://t.co/dcupYxSxKA">https://t.co/dcupYxSxKA</a><br><br>Here is the summary thread 👇: 1/n <a href="https://t.co/LI6kr8PY9j">pic.twitter.com/LI6kr8PY9j</a></p>&mdash; Jean-Rémi King (@JeanRemiKing) <a href="https://twitter.com/JeanRemiKing/status/1369230423545548807?ref_src=twsrc%5Etfw">March 9, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 [Deep Recurrent Encoder: A scalable end-to-end network to model brain signals](https://arxiv.org/abs/2103.02339)
 ---------
-Chehab\*, Defossez\*, Loiseau, Gramfort & King, <i>arXiv</i> 2021
+[Chehab](https://l-omar-chehab.github.io/\*, [Défossez](https://ai.honu.io/)\*, [Loiseau](https://loiseaujc.github.io/), [Gramfort](https://alexandre.gramfort.net/) & [King](https://kingjr.github.io/), <i>arXiv</i> 2021
 
 <b>tl;dr:</b> We propose a new end-to-end architecture to encode MEG brain signals. It outperforms standard pipelines by a 3X.
 
@@ -111,7 +111,7 @@ Chehab\*, Defossez\*, Loiseau, Gramfort & King, <i>arXiv</i> 2021
 
 [Bifurcation in brain dynamics reveals a signature of conscious processing independent of report](https://www.nature.com/articles/s41467-021-21393-z)
 ---------
-Sergent, Corazzol, Labouret, Stockart, Wexler,King, Meyniel & Pressnitzer , <i>Nature Communications</i> 2021
+[Sergent](https://clairesergent1.wixsite.com/sergentlab/claire-sergent), Corazzol, Labouret, Stockart, Wexler, [King](https://kingjr.github.io/), [Meyniel](https://florentmeyniel.weebly.com/) & [Pressnitzer](http://audition.ens.fr/dp/) , <i>Nature Communications</i> 2021
 
 <b>tl;dr:</b> We show with EEG that the conscious access follows an all-or-none dynamics even without report.
 
@@ -120,7 +120,7 @@ Sergent, Corazzol, Labouret, Stockart, Wexler,King, Meyniel & Pressnitzer , <i>N
 [Language processing in brains and deep neural networks: computational convergence and its limits](https://www.biorxiv.org/content/10.1101/2020.07.03.186288v1.full.pdf)
 ---------
 
-Caucheteux & King, <i>bioRxiv</i> 2020
+[Caucheteux](https://charlottecaucheteux.github.io/) & [King](https://kingjr.github.io/), <i>bioRxiv</i> 2020
 
 <b>tl;dr:</b> Do deep nets become increasingly correlated with brain activity as
 they learn to process language? Short answer: only their middle layers do.
@@ -130,8 +130,7 @@ they learn to process language? Short answer: only their middle layers do.
 
 [Back-to-back regression: Disentangling the influence of correlated factors from multivariate observations](https://www.sciencedirect.com/science/article/pii/S1053811920305140)
 ---------
-
-King, Charton, Lopez-Paz & Oquab, <i>Neuroimage</i> 2020
+[King](https://kingjr.github.io/), Charton, [Lopez-Paz](http://lopezpaz.org/) & Oquab, <i>Neuroimage</i> 2020
 
 <b>tl;dr:</b> We introduce a simple method to combine the advantages of decoding
 and encoding analyses.
@@ -142,7 +141,7 @@ and encoding analyses.
 [COVID-19: the promises and pitfalls of Machine Learning](https://www.nature.com/articles/s42256-020-0181-6)
 ---------
 
-Peiffer-Smadja, Maatoug, Lescure, D’Ortenzio, Pineau & King, <i>Nature Machine Intelligence</i> 2020
+Peiffer-Smadja, Maatoug, Lescure, D’Ortenzio, [Pineau](https://www.cs.mcgill.ca/~jpineau/) & [King](https://kingjr.github.io/), <i>Nature Machine Intelligence</i> 2020
 
 <b>tl;dr:</b> We're teaming up with the AP-HP hospital to review the
 promises and pitfalls of Machine Learning.
@@ -151,7 +150,7 @@ promises and pitfalls of Machine Learning.
 
 [Neural dynamics of phoneme sequencing](https://www.biorxiv.org/content/10.1101/2020.04.04.025684v1.full.pdf)
 ---------
-Gwilliams, King, Marantz & Poeppel, <i>bioRxiv</i> 2020
+[Gwilliams](https://lauragwilliams.github.io/), King, [Marantz](https://wp.nyu.edu/morphlab/alec-marantz/) & [Poeppel](https://as.nyu.edu/faculty/david-poeppel.html), <i>bioRxiv</i> 2020
 
 <b>tl;dr:</b> Decoding the neural dynamics underlying phonetic representations shows how
 the brain can keep up multiple phonemes until the corresponding word is identified.
@@ -161,16 +160,16 @@ the brain can keep up multiple phonemes until the corresponding word is identifi
 
 [The Human Brain Encodes a Chronicle of Visual Events at Each Instant of Time Through the Multiplexing of Traveling Waves](https://www.jneurosci.org/content/41/34/7224.abstract)
 ---------
-Wyart and King, <i>Journal of Neuroscience</i> 2021
+[Wyart](https://sites.google.com/site/valentinwyart/) & [King](https://kingjr.github.io/), <i>Journal of Neuroscience</i> 2021
 
 <b>tl;dr:</b> We measure brain responses to image sequences, and show how the brain recruits a hierarchy of neural processes in order to efficiently represents multiple snapshots of the past. [Check-out our tweet thread for the illustrated summary](https://twitter.com/JeanRemiKing/status/1196808278929526786?ref_src=twsrc%5Etfw)
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;The Human Brain encodes a Chronicle of Visual Events at each Instant of Time&quot;, by <a href="https://twitter.com/valentinwyart?ref_src=twsrc%5Etfw">@valentinwyart</a> and I: the tl;dr thread: <a href="https://t.co/YfLLZ1ZStr">https://t.co/YfLLZ1ZStr</a> <a href="https://t.co/iySGP52al9">pic.twitter.com/iySGP52al9</a></p>&mdash; Jean-Rémi King (@JeanRemiKing) <a href="https://twitter.com/JeanRemiKing/status/1196808278929526786?ref_src=twsrc%5Etfw">November 19, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-[Recurrent Processes Emulate a Cascade of Hierarchical Decisions](https://www.biorxiv.org/content/biorxiv/early/2019/11/12/840074.full.pdf)
+[Recurrent Processes Emulate a Cascade of Hierarchical Decisions](https://elifesciences.org/articles/56603)
 ----
-Gwilliams and King <i>bioRxiv</i> 2019
+[Gwilliams](https://lauragwilliams.github.io/) & [King](https://kingjr.github.io/) <i>eLife</i> 2020
 
 <b>tl;dr:</b> When an image is ambiguous, the brain slowly recruits a hierarchy of recurrent processes to generate categorical percepts. [Check-out our tweet thread for the illustrated summary](https://twitter.com/JeanRemiKing/status/1195380648560615425?ref_src=twsrc%5Etfw)
 
