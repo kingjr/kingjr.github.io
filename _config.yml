@@ -10,11 +10,11 @@ locale                   : "en-US"
 title                    : "Jean-Rémi KING"
 title_separator          : "-"
 name                     : &name ""
-description              : &description "Jean-Remi King latest research"
+description              : &description "Jean-Remi King"
 url                      : https://kingjr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/kingjr.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : millet.gif # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Jean-Remi King"
   location         :
-  employer         : "Meta AI / CNRS"
+  employer         : "Meta / CNRS"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=XZOgIwEAAAAJ&hl=en&oi=ao"
   email            : "jeanremi.king@gmail.com"
