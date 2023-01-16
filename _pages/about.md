@@ -29,7 +29,8 @@ Press
 - [New York Times](https://www.nytimes.com/2019/06/26/health/brain-injury-eeg-consciousness.html): ‘It’s Gigantic’: A New Way to Gauge the Chances for Unresponsive Patients
 - [CBC News](https://www.cbc.ca/news/science/brain-subliminal-images-1.3879282): Your brain registers more than you think you see, NYU researchers find.
 
-Our work explained visually.
+
+Our work summarized in short visual threads: 👇
 ====
 
 
