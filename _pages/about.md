@@ -175,11 +175,3 @@ Gwilliams and King <i>bioRxiv</i> 2019
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">0/9: &quot;Recurrent Processes Emulate a Cascade of Hierarchical Decisions&quot;, by <a href="https://twitter.com/GwilliamsL?ref_src=twsrc%5Etfw">@GwilliamsL</a> and I, the tl;dr thread:</p>&mdash; Jean-Rémi King (@JeanRemiKing) <a href="https://twitter.com/JeanRemiKing/status/1195380469031792641?ref_src=twsrc%5Etfw">November 15, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">3/9 Their average brain response confirm a fast feedforward recruitment of their visual hierarchies <a href="https://t.co/Y39WYwJ2Yx">pic.twitter.com/Y39WYwJ2Yx</a></p>&mdash; Jean-Rémi King (@JeanRemiKing) <a href="https://twitter.com/JeanRemiKing/status/1195380648560615425?ref_src=twsrc%5Etfw">November 15, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-[Detection of Brain Activation in Unresponsive Patients with Acute Brain Injury](https://www.nejm.org/doi/pdf/10.1056/NEJMoa1812757?casa_token=JfUB9yyfA1YAAAAA:P4OJxqnKvGq2nUo2Nwgv8n68c4uFYoKh22ySy0pQCE6KGb_qO_qdGpG2hcpuwkxaRv1BgWQqsWlxsLE)
-----
-Claassen et al, <i>New England Journal of Medicine</i> 2019
-
-<b>tl;dr:</b> Acute brain injury patients can sometimes be behaviorally unresponsive. Yet, we show that 15% of them still demonstrate motor-command brain responses.
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The covering of our latest study in the New York Times: <a href="https://t.co/7qBuerdsKD">https://t.co/7qBuerdsKD</a> <a href="https://t.co/60Cvpv08d5">pic.twitter.com/60Cvpv08d5</a></p>&mdash; Jean-Rémi King (@JeanRemiKing) <a href="https://twitter.com/JeanRemiKing/status/1144529142760845312?ref_src=twsrc%5Etfw">June 28, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
