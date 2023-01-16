@@ -11,7 +11,7 @@ redirect_from:
 
 I am a CNRS researcher at [École Normale Supérieure](https://lsp.dec.ens.fr/fr) currently detached to [Meta AI](https://ai.facebook.com/), where I lead the Brain & AI team.
 This team is dedicated to identify the brain and computational bases of human intelligence, with a focus on language.
-For this, we develop deep learning algorithms to decode and model brain activity recorded with [electro-](https://en.wikipedia.org/wiki/Electroencephalography), [magneto-encephalography](https://en.wikipedia.org/wiki/Magnetoencephalography), [electrophysiology](https://en.wikipedia.org/wiki/Electrophysiology) and [functional magnetic resonance imaging](https://en.wikipedia.org/wiki/Functional_magnetic_resonance_imaging).
+For this, we develop deep learning algorithms to decode and model brain activity recorded with [MEG](https://en.wikipedia.org/wiki/Magnetoencephalography), [EEG](https://en.wikipedia.org/wiki/Electroencephalography), [electrophysiology](https://en.wikipedia.org/wiki/Electrophysiology), [fUS](https://en.wikipedia.org/wiki/Functional_ultrasound_imaging) and [fMRI](https://en.wikipedia.org/wiki/Functional_magnetic_resonance_imaging).
 
 <a href='https://twitter.com/JeanRemiKing/status/1533720262344073218'>
 <img src="/images/millet.gif" />
