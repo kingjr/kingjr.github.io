@@ -7,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+{% include accordion.html %}
+
 
 I am a CNRS researcher at [École Normale Supérieure](https://lsp.dec.ens.fr/fr) currently detached to [Meta AI](https://ai.facebook.com/), where I lead the Brain & AI team.
 This team is dedicated to identify the brain and computational bases of human intelligence, with a focus on language.
@@ -33,6 +35,13 @@ Press
 Our work summarized in short visual threads: 👇
 ====
 
+---
+accordion:
+  - title: this is item 1
+    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  - title: this is item 2
+    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+---
 
 [Decoding speech from non-invasive brain recordings](https://arxiv.org/abs/2208.12266)
 ---------
