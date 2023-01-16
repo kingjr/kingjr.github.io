@@ -103,7 +103,7 @@ Our work summarized in short visual threads: 👇
 
 [Deep Recurrent Encoder: A scalable end-to-end network to model brain signals](https://arxiv.org/abs/2103.02339)
 ---------
-[Chehab](https://l-omar-chehab.github.io/\*, [Défossez](https://ai.honu.io/)\*, [Loiseau](https://loiseaujc.github.io/), [Gramfort](https://alexandre.gramfort.net/) & [King](https://kingjr.github.io/), <i>arXiv</i> 2021
+[Chehab](https://l-omar-chehab.github.io/)\*, [Défossez](https://ai.honu.io/)\*, [Loiseau](https://loiseaujc.github.io/), [Gramfort](https://alexandre.gramfort.net/) & [King](https://kingjr.github.io/), <i>arXiv</i> 2021
 
 <b>tl;dr:</b> We propose a new end-to-end architecture to encode MEG brain signals. It outperforms standard pipelines by a 3X.
 
