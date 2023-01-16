@@ -65,14 +65,14 @@ Brains and algorithms partially converge in natural language processing,
 <details markdown=block>
 <summary markdown=span>
 Long-range and hierarchical language predictions in brains and algorithms,
-<i>[arXiv]</i> 2021(https://arxiv.org/abs/2111.14232)
+<i>[arXiv](https://arxiv.org/abs/2111.14232)</i> 2021
 </summary>
 [Caucheteux](https://charlottecaucheteux.github.io/), [Gramfort](https://alexandre.gramfort.net/) & [King](https://kingjr.github.io/)
 
 <b>tl;dr:</b>We track language predictions in the brain and show that, unlike modern algorithms, they are hierarchical and apply to a variety of temporal scopes.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">‘Long-range and hierarchical language predictions in brains and algorithms’<br> <br>Check-out our latest paper <a href="https://t.co/rwfVCVLRWA">https://t.co/rwfVCVLRWA</a> by <a href="https://twitter.com/c_caucheteux?ref_src=twsrc%5Etfw">@c_caucheteux</a> <a href="https://twitter.com/agramfort?ref_src=twsrc%5Etfw">@agramfort</a> <a href="https://twitter.com/JeanRemiKing?ref_src=twsrc%5Etfw">@JeanRemiKing</a><br> <br>tl;dr: Unlike deep language models, the brain makes long-range &amp; hierarchical predictions<br> <br>Thread below👇 <a href="https://t.co/iP0BEYBjip">pic.twitter.com/iP0BEYBjip</a></p>&mdash; Jean-Rémi King (@JeanRemiKing) <a href="https://twitter.com/JeanRemiKing/status/1465716332264103940?ref_src=twsrc%5Etfw">November 30, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></details>
-
+</details>
 
 <details markdown=block>
 <summary markdown=span>
