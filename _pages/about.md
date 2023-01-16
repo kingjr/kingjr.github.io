@@ -148,9 +148,9 @@ promises and pitfalls of Machine Learning.
 
 <blockquote class="twitter-tweet" data-theme="light"><br><br>&quot;<a href="https://twitter.com/hashtag/MachineLearning?src=hash&amp;ref_src=twsrc%5Etfw">#MachineLearning</a> for <a href="https://twitter.com/hashtag/COVID%E3%83%BC19?src=hash&amp;ref_src=twsrc%5Etfw">#COVIDー19</a> needs global collaboration and data-sharing&quot;<br><br>👉<a href="https://t.co/ouY7MYX59p">https://t.co/ouY7MYX59p</a><br><br> <a href="https://twitter.com/hashtag/ArtificialIntelligence?src=hash&amp;ref_src=twsrc%5Etfw">#ArtificialIntelligence</a> <a href="https://twitter.com/hashtag/SARSCoV2?src=hash&amp;ref_src=twsrc%5Etfw">#SARSCoV2</a> <a href="https://t.co/lZsZh8Hqvm">pic.twitter.com/lZsZh8Hqvm</a></p>&mdash; Nathan Peiffer-Smadja (@nathanpsmad) <a href="https://twitter.com/nathanpsmad/status/1263862383308689409?ref_src=twsrc%5Etfw">May 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-[Neural dynamics of phoneme sequencing](https://www.biorxiv.org/content/10.1101/2020.04.04.025684v1.full.pdf)
+[Neural dynamics of phoneme sequences reveal position-invariant code for content and order](https://www.nature.com/articles/s41467-022-34326-1)
 ---------
-[Gwilliams](https://lauragwilliams.github.io/), [King](https://kingjr.github.io/), [Marantz](https://wp.nyu.edu/morphlab/alec-marantz/) & [Poeppel](https://as.nyu.edu/faculty/david-poeppel.html), <i>bioRxiv</i> 2020
+[Gwilliams](https://lauragwilliams.github.io/), [King](https://kingjr.github.io/), [Marantz](https://wp.nyu.edu/morphlab/alec-marantz/) & [Poeppel](https://as.nyu.edu/faculty/david-poeppel.html), <i>Nature Communications</i> 2022
 
 <b>tl;dr:</b> Decoding the neural dynamics underlying phonetic representations shows how
 the brain can keep up multiple phonemes until the corresponding word is identified.
