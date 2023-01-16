@@ -34,7 +34,7 @@ Press
 Our work summarized in short visual threads
 ====
 
-<details open markdown=block style="background-color: rgb(70, 70, 70);">
+<details open markdown=block style="background-color: rgb(250, 250, 250);">
 <summary markdown=span>
 Decoding speech from non-invasive brain recordings, 👇
 <i>[arXiv](https://arxiv.org/abs/2208.12266)</i> 2022
@@ -52,7 +52,7 @@ Decoding speech from non-invasive brain recordings, 👇
 </details>
 
 
-<details open markdown=block>
+<details markdown=block>
 <summary markdown=span>
 Brains and algorithms partially converge in natural language processing,
 <i>[bioRxiv](https://www.biorxiv.org/content/10.1101/2020.07.03.186288v1.full.pdf)</i> 2020,
@@ -72,7 +72,7 @@ Long-range and hierarchical language predictions in brains and algorithms,
 
 <b>tl;dr:</b>We track language predictions in the brain and show that, unlike modern algorithms, they are hierarchical and apply to a variety of temporal scopes.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">‘Long-range and hierarchical language predictions in brains and algorithms’<br> <br>Check-out our latest paper <a href="https://t.co/rwfVCVLRWA">https://t.co/rwfVCVLRWA</a> by <a href="https://twitter.com/c_caucheteux?ref_src=twsrc%5Etfw">@c_caucheteux</a> <a href="https://twitter.com/agramfort?ref_src=twsrc%5Etfw">@agramfort</a> <a href="https://twitter.com/JeanRemiKing?ref_src=twsrc%5Etfw">@JeanRemiKing</a><br> <br>tl;dr: Unlike deep language models, the brain makes long-range &amp; hierarchical predictions<br> <br>Thread below👇 <a href="https://t.co/iP0BEYBjip">pic.twitter.com/iP0BEYBjip</a></p>&mdash; Jean-Rémi King (@JeanRemiKing) <a href="https://twitter.com/JeanRemiKing/status/1465716332264103940?ref_src=twsrc%5Etfw">November 30, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></details>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">‘Long-range and hierarchical language predictions in brains and algorithms’<br> <br>Check-out our latest paper <a href="https://t.co/rwfVCVLRWA">https://t.co/rwfVCVLRWA</a> by <a href="https://twitter.com/c_caucheteux?ref_src=twsrc%5Etfw">@c_caucheteux</a> <a href="https://twitter.com/agramfort?ref_src=twsrc%5Etfw">@agramfort</a> <a href="https://twitter.com/JeanRemiKing?ref_src=twsrc%5Etfw">@JeanRemiKing</a><br> <br>tl;dr: Unlike deep language models, the brain makes long-range &amp; hierarchical predictions<br> <br>Thread below👇 <a href="https://t.co/iP0BEYBjip">pic.twitter.com/iP0BEYBjip</a></p>&mdash; Jean-Rémi King (@JeanRemiKing) <a href="https://twitter.com/JeanRemiKing/status/1465716332264103940?ref_src=twsrc%5Etfw">November 30, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </details>
 
 <details markdown=block>
