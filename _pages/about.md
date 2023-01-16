@@ -34,7 +34,7 @@ Press:
 Publication summarized in threads:
 ====
 
-<details open markdown=block>
+<details markdown=block>
 <summary markdown=span>
 Decoding speech from non-invasive brain recordings,
 <i>[arXiv](https://arxiv.org/abs/2208.12266)</i> 2022 👇
@@ -44,7 +44,7 @@ Decoding speech from non-invasive brain recordings,
 </details>
 
 
-<details open markdown=block>
+<details markdown=block>
 <summary markdown=span>Toward a realistic model of speech processing in the brain with self-supervised learning,
 <i>[arXiv](https://arxiv.org/abs/2206.01685)</i> 2022 👇
 </summary>
