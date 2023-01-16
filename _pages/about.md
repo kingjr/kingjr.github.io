@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-[We recently showed that the activations of wav2vec 2.0,a self-supervised learning algorithm developed at Meta, (left) map onto the brain (right) in response to the same speech sounds. The representations of the first layers of this algorithm (cool colors) map onto the early auditory cortex, whereas the deepest layers map onto high-level brain regions (e.g. prefrontal and parietal cortex).](https://kingjr.github.io/files/millet.gif)
+<img src="/images/millet.gif" />
 
 I am a CNRS researcher at the [École Normale Supérieure](https://lsp.dec.ens.fr/fr) currently detached to [Meta AI](https://ai.facebook.com/), where I lead the Brain & AI team.
 This team is dedicated to identify the brain and computational bases of human intelligence, with a focus on language.
