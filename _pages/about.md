@@ -23,13 +23,14 @@ Press
 - [Towards Data Science Podcast](https://towardsdatascience.com/does-the-brain-run-on-deep-learning-3fbaf20e9d12): Does the brain run on deep learning?
 - [Quanta Magazine](https://www.quantamagazine.org/self-taught-ai-shows-similarities-to-how-the-brain-works-20220811/): Self-Taught AI Shows Similarities to How the Brain Works.
 - [Meta AI](https://ai.facebook.com/blog/studying-the-brain-to-build-ai-that-processes-language-as-people-do/): Studying the brain to build AI that processes language as people do.
+- [Ecole Normale Supérieure](https://www.ens.psl.eu/actualites/jean-remi-king-entre-ia-et-neurosciences)
 - [New York Times](https://www.nytimes.com/2019/06/26/health/brain-injury-eeg-consciousness.html): ‘It’s Gigantic’: A New Way to Gauge the Chances for Unresponsive Patients
 - [CBC News](https://www.cbc.ca/news/science/brain-subliminal-images-1.3879282): Your brain registers more than you think you see, NYU researchers find.
 
-Recent works
+Recent works explained visually.
 ====
 
-[Decoding speech from non-invasive brain recordings](https://arxiv.org/abs/2208.12266)
+[Decoding speech from non-invasive brain recordings](https://arxiv.org/abs/2208.12266): Jean-Rémi King, entre I.A. et neurosciences
 ---------
 Défossez, Caucheteux, Kabeli, Rapin & King, <i>arXiv</i> 2022
 
@@ -152,10 +153,6 @@ Gwilliams, King, Marantz & Poeppel, <i>bioRxiv</i> 2020
 the brain can keep up multiple phonemes until the corresponding word is identified.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">our new paper &quot;Neural dynamics of phoneme sequencing&quot; is now on bioRxiv!<a href="https://t.co/jeTipPTXuf">https://t.co/jeTipPTXuf</a><br><br>conducted with dream-team <a href="https://twitter.com/JeanRemiKing?ref_src=twsrc%5Etfw">@JeanRemiKing</a> <a href="https://twitter.com/AlecMarantz?ref_src=twsrc%5Etfw">@AlecMarantz</a> <a href="https://twitter.com/davidpoeppel?ref_src=twsrc%5Etfw">@davidpoeppel</a>, we use MEG to study how phonemes are processed in continuous naturalistic speech<br><br>short summary in thread below:<br>1/8 <a href="https://t.co/yT5bN2PfHw">pic.twitter.com/yT5bN2PfHw</a></p>&mdash; Laura Gwilliams (@GwilliamsL) <a href="https://twitter.com/GwilliamsL/status/1247216879992782848?ref_src=twsrc%5Etfw">April 6, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-[Intersecting AI and Neuroscience](https://www.ens.psl.eu/actualites/jean-remi-king-entre-ia-et-neurosciences)
----------
-<blockquote class="twitter-tweet"><p lang="fr" dir="ltr">Entre <a href="https://twitter.com/hashtag/IA?src=hash&amp;ref_src=twsrc%5Etfw">#IA</a> et neurosciences. Rencontre avec Jean-Rémi King <a href="https://twitter.com/JeanRemiKing?ref_src=twsrc%5Etfw">@JeanRemiKing</a> <a href="https://twitter.com/Cognition_ENS?ref_src=twsrc%5Etfw">@Cognition_ENS</a>, chercheur <a href="https://twitter.com/CNRS?ref_src=twsrc%5Etfw">@CNRS</a> spécialiste du fonctionnement du cerveau humain 🧠 <a href="https://t.co/6hxwyGHECP">https://t.co/6hxwyGHECP</a> <a href="https://t.co/cAnJwbbbCj">pic.twitter.com/cAnJwbbbCj</a></p>&mdash; École normale supérieure | PSL (@ENS_ULM) <a href="https://twitter.com/ENS_ULM/status/1237414108091297796?ref_src=twsrc%5Etfw">March 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 [The Human Brain Encodes a Chronicle of Visual Events at Each Instant of Time Through the Multiplexing of Traveling Waves](https://www.jneurosci.org/content/41/34/7224.abstract)
