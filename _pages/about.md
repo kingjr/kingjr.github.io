@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/images/millet.gif" />
-
 I am a CNRS researcher at the [École Normale Supérieure](https://lsp.dec.ens.fr/fr) currently detached to [Meta AI](https://ai.facebook.com/), where I lead the Brain & AI team.
 This team is dedicated to identify the brain and computational bases of human intelligence, with a focus on language.
 For this, we develop deep learning models to decode and analyze intracranial recordings, magneto-encephalography and functional magnetic resonance imaging.
+
+<a href='https://twitter.com/JeanRemiKing/status/1533720262344073218'>
+<img src="/images/millet.gif" />
+</a>
 
 Press
 ====
