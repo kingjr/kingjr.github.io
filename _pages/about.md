@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-{% include accordion.html %}
 
 
 I am a CNRS researcher at [École Normale Supérieure](https://lsp.dec.ens.fr/fr) currently detached to [Meta AI](https://ai.facebook.com/), where I lead the Brain & AI team.
@@ -35,19 +34,13 @@ Press
 Our work summarized in short visual threads: 👇
 ====
 
----
-accordion:
-  - title: this is item 1
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  - title: this is item 2
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
----
-
-[Decoding speech from non-invasive brain recordings](https://arxiv.org/abs/2208.12266)
----------
-[Défossez](https://ai.honu.io/), [Caucheteux](https://charlottecaucheteux.github.io/), Kabeli, Rapin & [King](https://kingjr.github.io/), <i>arXiv</i> 2022
+<details markdown=block>
+<summary markdown=span>Decoding speech from non-invasive brain recordings
+[Défossez](https://ai.honu.io/), [Caucheteux](https://charlottecaucheteux.github.io/), Kabeli, Rapin & [King](https://kingjr.github.io/), <i>[arXiv](https://arxiv.org/abs/2208.12266)</i> 2022
+</summary>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">“Decoding speech from non-invasive brain recordings”,<br><br>Our latest study (on 169 participants!), by <a href="https://twitter.com/honualx?ref_src=twsrc%5Etfw">@honualx</a> and our wonderful team <a href="https://twitter.com/MetaAI?ref_src=twsrc%5Etfw">@MetaAI</a><br><br>- paper: <a href="https://t.co/QiB7Io8af8">https://t.co/QiB7Io8af8</a><br>- blog: <a href="https://t.co/H2W4prbbuD">https://t.co/H2W4prbbuD</a><br>- illustrated summary: below👇 <a href="https://t.co/39eMnJ4IDv">pic.twitter.com/39eMnJ4IDv</a></p>&mdash; Jean-Rémi King (@JeanRemiKing) <a href="https://twitter.com/JeanRemiKing/status/1564964019965927424?ref_src=twsrc%5Etfw">August 31, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</details>
 
 
 [Toward a realistic model of speech processing in the brain with self-supervised learning](https://arxiv.org/abs/2206.01685)
