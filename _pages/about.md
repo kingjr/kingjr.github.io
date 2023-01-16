@@ -150,7 +150,7 @@ promises and pitfalls of Machine Learning.
 
 [Neural dynamics of phoneme sequencing](https://www.biorxiv.org/content/10.1101/2020.04.04.025684v1.full.pdf)
 ---------
-[Gwilliams](https://lauragwilliams.github.io/), King, [Marantz](https://wp.nyu.edu/morphlab/alec-marantz/) & [Poeppel](https://as.nyu.edu/faculty/david-poeppel.html), <i>bioRxiv</i> 2020
+[Gwilliams](https://lauragwilliams.github.io/), [King](https://kingjr.github.io/), [Marantz](https://wp.nyu.edu/morphlab/alec-marantz/) & [Poeppel](https://as.nyu.edu/faculty/david-poeppel.html), <i>bioRxiv</i> 2020
 
 <b>tl;dr:</b> Decoding the neural dynamics underlying phonetic representations shows how
 the brain can keep up multiple phonemes until the corresponding word is identified.
