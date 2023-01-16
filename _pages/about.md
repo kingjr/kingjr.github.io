@@ -34,10 +34,10 @@ Press
 Our work summarized in short visual threads
 ====
 
-<details open markdown=block style="background-color: rgb(250, 250, 250);">
+<details open markdown=block>
 <summary markdown=span>
-Decoding speech from non-invasive brain recordings, 👇
-<i>[arXiv](https://arxiv.org/abs/2208.12266)</i> 2022
+Decoding speech from non-invasive brain recordings,
+<i>[arXiv](https://arxiv.org/abs/2208.12266)</i> 2022 👇
 </summary>
 [Défossez](https://ai.honu.io/), [Caucheteux](https://charlottecaucheteux.github.io/), Kabeli, Rapin & [King](https://kingjr.github.io/)
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">“Decoding speech from non-invasive brain recordings”,<br><br>Our latest study (on 169 participants!), by <a href="https://twitter.com/honualx?ref_src=twsrc%5Etfw">@honualx</a> and our wonderful team <a href="https://twitter.com/MetaAI?ref_src=twsrc%5Etfw">@MetaAI</a><br><br>- paper: <a href="https://t.co/QiB7Io8af8">https://t.co/QiB7Io8af8</a><br>- blog: <a href="https://t.co/H2W4prbbuD">https://t.co/H2W4prbbuD</a><br>- illustrated summary: below👇 <a href="https://t.co/39eMnJ4IDv">pic.twitter.com/39eMnJ4IDv</a></p>&mdash; Jean-Rémi King (@JeanRemiKing) <a href="https://twitter.com/JeanRemiKing/status/1564964019965927424?ref_src=twsrc%5Etfw">August 31, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -45,7 +45,8 @@ Decoding speech from non-invasive brain recordings, 👇
 
 
 <details open markdown=block>
-<summary markdown=span>Toward a realistic model of speech processing in the brain with self-supervised learning, <i>[arXiv](https://arxiv.org/abs/2206.01685)</i> 2022
+<summary markdown=span>Toward a realistic model of speech processing in the brain with self-supervised learning,
+<i>[arXiv](https://arxiv.org/abs/2206.01685)</i> 2022 👇
 </summary>
 [Millet](https://jamju.github.io/)\*, [Caucheteux](https://charlottecaucheteux.github.io/)\*, Orhan, [Boubenec](https://lsp.dec.ens.fr/en/member/616/yves-boubenec), [Gramfort](https://alexandre.gramfort.net/), [Dunbar](http://individual.utoronto.ca/ewan_dunbar/), [Pallier](https://www.pallier.org/) & [King](https://kingjr.github.io/)
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">🔥Preprint out: <br><br>`Toward a realistic model of speech processing in the brain with self-supervised learning’:<a href="https://t.co/rJH6t6H6sm">https://t.co/rJH6t6H6sm</a><br><br>by J. [Millet](https://jamju.github.io/)*, <a href="https://twitter.com/c_caucheteux?ref_src=twsrc%5Etfw">@c_caucheteux</a>* and our wonderful team:<br><br>The 3 main results summarized below 👇 <a href="https://t.co/mdrJpbrb3M">pic.twitter.com/mdrJpbrb3M</a></p>&mdash; Jean-Rémi King (@JeanRemiKing) <a href="https://twitter.com/JeanRemiKing/status/1533720262344073218?ref_src=twsrc%5Etfw">June 6, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -56,7 +57,7 @@ Decoding speech from non-invasive brain recordings, 👇
 <summary markdown=span>
 Brains and algorithms partially converge in natural language processing,
 <i>[bioRxiv](https://www.biorxiv.org/content/10.1101/2020.07.03.186288v1.full.pdf)</i> 2020,
-<i>[Nature Communications Biology](https://www.nature.com/articles/s42003-022-03036-1)</i> 2022
+<i>[Nature Communications Biology](https://www.nature.com/articles/s42003-022-03036-1)</i> 2022 👇
 </summary>
 [Caucheteux](https://charlottecaucheteux.github.io/) & [King](https://kingjr.github.io/)
 <blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">🎉Paper out: ‘Brains and algorithms partially converge in natural language processing’<br> <br>by <a href="https://twitter.com/c_caucheteux?ref_src=twsrc%5Etfw">@c_caucheteux</a>, and now freely available at Nature <a href="https://twitter.com/CommsBio?ref_src=twsrc%5Etfw">@CommsBio</a>:<a href="https://t.co/MpenOUaKwS">https://t.co/MpenOUaKwS</a><br> <br>The summary thread below 👇 <a href="https://t.co/gMruZgGIOv">pic.twitter.com/gMruZgGIOv</a></p>&mdash; Jean-Rémi King (@JeanRemiKing) <a href="https://twitter.com/JeanRemiKing/status/1496425017474695169?ref_src=twsrc%5Etfw">February 23, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -66,7 +67,7 @@ Brains and algorithms partially converge in natural language processing,
 <details markdown=block>
 <summary markdown=span>
 Long-range and hierarchical language predictions in brains and algorithms,
-<i>[arXiv](https://arxiv.org/abs/2111.14232)</i> 2021
+<i>[arXiv](https://arxiv.org/abs/2111.14232)</i> 2021 👇
 </summary>
 [Caucheteux](https://charlottecaucheteux.github.io/), [Gramfort](https://alexandre.gramfort.net/) & [King](https://kingjr.github.io/)
 
@@ -78,7 +79,7 @@ Long-range and hierarchical language predictions in brains and algorithms,
 <details markdown=block>
 <summary markdown=span>
 Model-based analysis of brain activity reveals the hierarchy of language,
-<i>[EMNLP](https://hal.inria.fr/hal-03361430)</i> 2021
+<i>[EMNLP](https://hal.inria.fr/hal-03361430)</i> 2021 👇
 </summary>
 
 [Caucheteux](https://charlottecaucheteux.github.io/), [Gramfort](https://alexandre.gramfort.net/) & [King](https://kingjr.github.io/)
@@ -92,7 +93,7 @@ Model-based analysis of brain activity reveals the hierarchy of language,
 <details markdown=block>
 <summary markdown=span>
 Deep language algorithms predict semantic comprehension from brain activity,
-<i>[Nature Scientific Report](https://www.nature.com/articles/s41598-022-20460-9)</i> 2022
+<i>[Nature Scientific Report](https://www.nature.com/articles/s41598-022-20460-9)</i> 2022 👇
 </summary>
 
 [Caucheteux](https://charlottecaucheteux.github.io/), [Gramfort](https://alexandre.gramfort.net/) & [King](https://kingjr.github.io/)
@@ -106,7 +107,7 @@ Deep language algorithms predict semantic comprehension from brain activity,
 <details markdown=block>
 <summary markdown=span>
 Disentangling Syntax and Semantics in the Brain with Deep Networks,
-<i>[ICML](http://proceedings.mlr.press/v139/caucheteux21a.html)</i> 2021
+<i>[ICML](http://proceedings.mlr.press/v139/caucheteux21a.html)</i> 2021 👇
 </summary>
 
 [Caucheteux](https://charlottecaucheteux.github.io/), [Gramfort](https://alexandre.gramfort.net/) & [King](https://kingjr.github.io/)
@@ -120,7 +121,7 @@ Disentangling Syntax and Semantics in the Brain with Deep Networks,
 <details markdown=block>
 <summary markdown=span>
 Inductive biases, pretraining and fine-tuning jointly account for brain responses to speech,
-<i>[arXiv](https://arxiv.org/abs/2103.01032)</i> 2021
+<i>[arXiv](https://arxiv.org/abs/2103.01032)</i> 2021 👇
 </summary>
 
 [Millet](https://jamju.github.io/) & [King](https://kingjr.github.io/)
@@ -134,7 +135,7 @@ Inductive biases, pretraining and fine-tuning jointly account for brain response
 <details markdown=block>
 <summary markdown=span>
 Deep Recurrent Encoder: A scalable end-to-end network to model magneto-encephalography at scale,
-<i>[NBDT](https://hal.inria.fr/hal-03808304)</i> 2022
+<i>[NBDT](https://hal.inria.fr/hal-03808304)</i> 2022 👇
 </summary>
 
 [Chehab](https://l-omar-chehab.github.io/)\*, [Défossez](https://ai.honu.io/)\*, [Loiseau](https://loiseaujc.github.io/), [Gramfort](https://alexandre.gramfort.net/) & [King](https://kingjr.github.io/), <i>arXiv</i> 2021
@@ -147,7 +148,7 @@ Deep Recurrent Encoder: A scalable end-to-end network to model magneto-encephalo
 <details markdown=block>
 <summary markdown=span>
 Bifurcation in brain dynamics reveals a signature of conscious processing independent of report,
-<i>[Nature Communications](https://www.nature.com/articles/s41467-021-21393-z)</i> 2021
+<i>[Nature Communications](https://www.nature.com/articles/s41467-021-21393-z)</i> 2021 👇
 </summary>
 
 [Sergent](https://clairesergent1.wixsite.com/sergentlab/claire-sergent), Corazzol, Labouret, Stockart, Wexler, [King](https://kingjr.github.io/), [Meyniel](https://florentmeyniel.weebly.com/) & [Pressnitzer](http://audition.ens.fr/dp/)
@@ -161,7 +162,7 @@ Bifurcation in brain dynamics reveals a signature of conscious processing indepe
 <details markdown=block>
 <summary markdown=span>
 Back-to-back regression: Disentangling the influence of correlated factors from multivariate observations,
-<i>[Neuroimage](https://www.sciencedirect.com/science/article/pii/S1053811920305140)</i> 2020
+<i>[Neuroimage](https://www.sciencedirect.com/science/article/pii/S1053811920305140)</i> 2020 👇
 </summary>
 
 [King](https://kingjr.github.io/), Charton, [Lopez-Paz](http://lopezpaz.org/) & Oquab
@@ -176,7 +177,7 @@ and encoding analyses.
 <details markdown=block>
 <summary markdown=span>
 COVID-19: the promises and pitfalls of Machine Learning,
-<i>[Nature Machine Intelligence](https://www.nature.com/articles/s42256-020-0181-6)</i> 2020
+<i>[Nature Machine Intelligence](https://www.nature.com/articles/s42256-020-0181-6)</i> 2020 👇
 </summary>
 
 
@@ -191,7 +192,7 @@ promises and pitfalls of Machine Learning.
 <details markdown=block>
 <summary markdown=span>
 Neural dynamics of phoneme sequences reveal position-invariant code for content and order,
-<i>[Nature Communications](https://www.nature.com/articles/s41467-022-34326-1)</i> 2022
+<i>[Nature Communications](https://www.nature.com/articles/s41467-022-34326-1)</i> 2022 👇
 </summary>
 
 [Gwilliams](https://lauragwilliams.github.io/), [King](https://kingjr.github.io/), [Marantz](https://wp.nyu.edu/morphlab/alec-marantz/) & [Poeppel](https://as.nyu.edu/faculty/david-poeppel.html)
@@ -206,7 +207,7 @@ the brain can keep up multiple phonemes until the corresponding word is identifi
 <details markdown=block>
 <summary markdown=span>
 The Human Brain Encodes a Chronicle of Visual Events at Each Instant of Time Through the Multiplexing of Traveling Waves,
-<i>[Journal of Neuroscience](https://www.jneurosci.org/content/41/34/7224.abstract)</i> 2021
+<i>[Journal of Neuroscience](https://www.jneurosci.org/content/41/34/7224.abstract)</i> 2021 👇
 </summary>
 
 [Wyart](https://sites.google.com/site/valentinwyart/) & [King](https://kingjr.github.io/)
@@ -220,7 +221,7 @@ The Human Brain Encodes a Chronicle of Visual Events at Each Instant of Time Thr
 <details markdown=block>
 <summary markdown=span>
 Recurrent Processes Emulate a Cascade of Hierarchical Decisions,
-<i>[eLife](https://elifesciences.org/articles/56603)</i> 2020
+<i>[eLife](https://elifesciences.org/articles/56603)</i> 2020 👇
 </summary>
 
 [Gwilliams](https://lauragwilliams.github.io/) & [King](https://kingjr.github.io/)
