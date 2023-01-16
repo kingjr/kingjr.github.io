@@ -25,14 +25,15 @@ Press
 - [Towards Data Science Podcast](https://towardsdatascience.com/does-the-brain-run-on-deep-learning-3fbaf20e9d12): Does the brain run on deep learning?
 - [Quanta Magazine](https://www.quantamagazine.org/self-taught-ai-shows-similarities-to-how-the-brain-works-20220811/): Self-Taught AI Shows Similarities to How the Brain Works.
 - [Meta AI](https://ai.facebook.com/blog/studying-the-brain-to-build-ai-that-processes-language-as-people-do/): Studying the brain to build AI that processes language as people do.
-- [Ecole Normale Supérieure](https://www.ens.psl.eu/actualites/jean-remi-king-entre-ia-et-neurosciences)
+- [Ecole Normale Supérieure](https://www.ens.psl.eu/actualites/jean-remi-king-entre-ia-et-neurosciences): Jean-Rémi King, entre I.A. et neurosciences
 - [New York Times](https://www.nytimes.com/2019/06/26/health/brain-injury-eeg-consciousness.html): ‘It’s Gigantic’: A New Way to Gauge the Chances for Unresponsive Patients
 - [CBC News](https://www.cbc.ca/news/science/brain-subliminal-images-1.3879282): Your brain registers more than you think you see, NYU researchers find.
 
-Recent works explained visually.
+Our work explained visually.
 ====
 
-[Decoding speech from non-invasive brain recordings](https://arxiv.org/abs/2208.12266): Jean-Rémi King, entre I.A. et neurosciences
+
+[Decoding speech from non-invasive brain recordings](https://arxiv.org/abs/2208.12266)
 ---------
 Défossez, Caucheteux, Kabeli, Rapin & King, <i>arXiv</i> 2022
 
