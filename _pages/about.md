@@ -31,7 +31,7 @@ Press:
 - [CBC News](https://www.cbc.ca/news/science/brain-subliminal-images-1.3879282): Your brain registers more than you think you see, NYU researchers find.
 
 
-Publication summarized in threads:
+Visual summaries:
 ====
 
 <details markdown=block>
