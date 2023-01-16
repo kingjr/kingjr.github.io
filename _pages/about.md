@@ -17,7 +17,7 @@ For this, we develop deep learning models to decode and analyze intracranial rec
 <img src="/images/millet.gif" />
 </a>
 
-Press
+Press:
 ====
 - [Pour la Science](https://www.pourlascience.fr/sd/informatique/quand-les-ia-miment-l-activite-cerebrale-24554.php): Quand les IA miment l’activité cérébrale.
 - [La Recherche](https://www.larecherche.fr/decrypter-les-reseaux-du-langage-dans-le-cerveau): Décrypter les réseaux du langage dans le cerveau.
@@ -31,7 +31,7 @@ Press
 - [CBC News](https://www.cbc.ca/news/science/brain-subliminal-images-1.3879282): Your brain registers more than you think you see, NYU researchers find.
 
 
-Our work summarized in short visual threads
+Publication summarized in threads:
 ====
 
 <details open markdown=block>
