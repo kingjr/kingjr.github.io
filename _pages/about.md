@@ -35,21 +35,20 @@ Visual summaries:
 ====
 
 <details markdown=block>
+<summary markdown=span>Toward a realistic model of speech processing in the brain with self-supervised learning,
+<i>[Neurips](https://arxiv.org/abs/2206.01685)</i> 2023 👇
+</summary>
+By [Millet](https://jamju.github.io/)\*, [Caucheteux](https://charlottecaucheteux.github.io/)\*, Orhan, [Boubenec](https://lsp.dec.ens.fr/en/member/616/yves-boubenec), [Gramfort](https://alexandre.gramfort.net/), [Dunbar](http://individual.utoronto.ca/ewan_dunbar/), [Pallier](https://www.pallier.org/) & [King](https://kingjr.github.io/)
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">🔥Preprint out: <br><br>`Toward a realistic model of speech processing in the brain with self-supervised learning’:<a href="https://t.co/rJH6t6H6sm">https://t.co/rJH6t6H6sm</a><br><br>by J. [Millet](https://jamju.github.io/)*, <a href="https://twitter.com/c_caucheteux?ref_src=twsrc%5Etfw">@c_caucheteux</a>* and our wonderful team:<br><br>The 3 main results summarized below 👇 <a href="https://t.co/mdrJpbrb3M">pic.twitter.com/mdrJpbrb3M</a></p>&mdash; Jean-Rémi King (@JeanRemiKing) <a href="https://twitter.com/JeanRemiKing/status/1533720262344073218?ref_src=twsrc%5Etfw">June 6, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</details>
+
+<details markdown=block>
 <summary markdown=span>
 Decoding speech from non-invasive brain recordings,
 <i>[arXiv](https://arxiv.org/abs/2208.12266)</i> 2022 👇
 </summary>
 By [Défossez](https://ai.honu.io/), [Caucheteux](https://charlottecaucheteux.github.io/), Kabeli, Rapin & [King](https://kingjr.github.io/)
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">“Decoding speech from non-invasive brain recordings”,<br><br>Our latest study (on 169 participants!), by <a href="https://twitter.com/honualx?ref_src=twsrc%5Etfw">@honualx</a> and our wonderful team <a href="https://twitter.com/MetaAI?ref_src=twsrc%5Etfw">@MetaAI</a><br><br>- paper: <a href="https://t.co/QiB7Io8af8">https://t.co/QiB7Io8af8</a><br>- blog: <a href="https://t.co/H2W4prbbuD">https://t.co/H2W4prbbuD</a><br>- illustrated summary: below👇 <a href="https://t.co/39eMnJ4IDv">pic.twitter.com/39eMnJ4IDv</a></p>&mdash; Jean-Rémi King (@JeanRemiKing) <a href="https://twitter.com/JeanRemiKing/status/1564964019965927424?ref_src=twsrc%5Etfw">August 31, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</details>
-
-
-<details markdown=block>
-<summary markdown=span>Toward a realistic model of speech processing in the brain with self-supervised learning,
-<i>[Neurips](https://arxiv.org/abs/2206.01685)</i> 2023 👇
-</summary>
-By [Millet](https://jamju.github.io/)\*, [Caucheteux](https://charlottecaucheteux.github.io/)\*, Orhan, [Boubenec](https://lsp.dec.ens.fr/en/member/616/yves-boubenec), [Gramfort](https://alexandre.gramfort.net/), [Dunbar](http://individual.utoronto.ca/ewan_dunbar/), [Pallier](https://www.pallier.org/) & [King](https://kingjr.github.io/)
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">🔥Preprint out: <br><br>`Toward a realistic model of speech processing in the brain with self-supervised learning’:<a href="https://t.co/rJH6t6H6sm">https://t.co/rJH6t6H6sm</a><br><br>by J. [Millet](https://jamju.github.io/)*, <a href="https://twitter.com/c_caucheteux?ref_src=twsrc%5Etfw">@c_caucheteux</a>* and our wonderful team:<br><br>The 3 main results summarized below 👇 <a href="https://t.co/mdrJpbrb3M">pic.twitter.com/mdrJpbrb3M</a></p>&mdash; Jean-Rémi King (@JeanRemiKing) <a href="https://twitter.com/JeanRemiKing/status/1533720262344073218?ref_src=twsrc%5Etfw">June 6, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </details>
 
 
