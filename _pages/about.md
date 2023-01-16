@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a CNRS researcher at the École Normale Supérieure currently detached to Meta AI, where I lead the Brain & AI team.
-In this team, we work on identifying the brain and computational bases of human intelligence, with a focus on language.
-We develop deep learning techniques to decode and model intracranial recordings, magneto-encephalography and functional magnetic resonance imaging.
+I am a CNRS researcher at the [École Normale Supérieure](https://lsp.dec.ens.fr/fr) currently detached to [Meta AI](https://ai.facebook.com/), where I lead the Brain & AI team.
+This team is dedicated to identify the brain and computational bases of human intelligence, with a focus on language.
+For this, we develop deep learning models to decode and analyze intracranial recordings, magneto-encephalography and functional magnetic resonance imaging.
 
-[My CV.](https://kingjr.github.io/files/JeanRemi_King_CV.pdf)
+[CV](https://kingjr.github.io/files/JeanRemi_King_CV.pdf)
+[Publications](https://scholar.google.com/citations?hl=en&user=XZOgIwEAAAAJ&view_op=list_works&sortby=pubdate)
 
 Press
 ====
