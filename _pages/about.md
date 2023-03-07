@@ -10,7 +10,7 @@ redirect_from:
 
 
 I am a CNRS researcher at [École Normale Supérieure](https://lsp.dec.ens.fr/fr) currently detached to [Meta AI](https://ai.facebook.com/), where I lead the Brain & AI team.
-This team is dedicated to identify the brain and computational bases of human intelligence, with a focus on language.
+This team aims to identify the brain and computational bases of human intelligence, with a focus on language.
 For this, we develop deep learning algorithms to decode and model brain activity recorded with [MEG](https://en.wikipedia.org/wiki/Magnetoencephalography), [EEG](https://en.wikipedia.org/wiki/Electroencephalography), [electrophysiology](https://en.wikipedia.org/wiki/Electrophysiology), [fUS](https://en.wikipedia.org/wiki/Functional_ultrasound_imaging) and [fMRI](https://en.wikipedia.org/wiki/Functional_magnetic_resonance_imaging).
 
 <a href='https://twitter.com/JeanRemiKing/status/1533720262344073218'>
@@ -33,6 +33,14 @@ Press:
 
 Visual summaries:
 ====
+
+<details markdown=block>
+<summary markdown=span>Evidence of a predictive coding hierarchy in the human brain listening to speech,
+<i>[Nature Human Behaviour](https://www.nature.com/articles/s41562-022-01516-2)</i> 2023 👇
+</summary>
+By [Caucheteux](https://charlottecaucheteux.github.io/), [Gramfort](https://alexandre.gramfort.net/) & [King](https://kingjr.github.io/)
+<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">Our paper is out in Nature Human Behaviour🔥🔥<br><br>‘Evidence of a predictive coding hierarchy in the human brain listening to speech’<br><br>📄<a href="https://t.co/bkZ3AYMqDi">https://t.co/bkZ3AYMqDi</a><br>💡Unlike language models, our brain makes distant &amp; hierarchical predictions<br><br>with <a href="https://twitter.com/agramfort?ref_src=twsrc%5Etfw">@agramfort</a> and <a href="https://twitter.com/JeanRemiKing?ref_src=twsrc%5Etfw">@JeanRemiKing</a><br><br>Thread👇 <a href="https://t.co/Jbs68EOaur">pic.twitter.com/Jbs68EOaur</a></p>&mdash; Charlotte Caucheteux (@c_caucheteux) <a href="https://twitter.com/c_caucheteux/status/1632740588352151556?ref_src=twsrc%5Etfw">March 6, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</details>
 
 <details markdown=block>
 <summary markdown=span>Toward a realistic model of speech processing in the brain with self-supervised learning,
