@@ -1,5 +1,7 @@
 # main links links
 main:
+  - title: "Team"
+    url: https://kingjr.github.io/images/team.png
   - title: "Publications"
     url: https://scholar.google.com/citations?hl=en&user=XZOgIwEAAAAJ&view_op=list_works&sortby=pubdate
   - title: "CV"
