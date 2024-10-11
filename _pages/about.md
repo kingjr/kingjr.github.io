@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a CNRS researcher at [École Normale Supérieure](https://lsp.dec.ens.fr/fr) currently detached to [Meta AI](https://ai.facebook.com/), where I lead the Brain & AI team.
+I am a CNRS researcher at [École Normale Supérieure](https://lsp.dec.ens.fr/fr) currently detached to [Meta AI](https://ai.facebook.com/), where I lead the [Brain & AI team](https://kingjr.github.io/images/team.png).
 This team aims to identify the brain and computational bases of human intelligence, with a focus on language.
 For this, we develop deep learning algorithms to decode and model brain activity recorded with [MEG](https://en.wikipedia.org/wiki/Magnetoencephalography), [EEG](https://en.wikipedia.org/wiki/Electroencephalography), [electrophysiology](https://en.wikipedia.org/wiki/Electrophysiology), [fUS](https://en.wikipedia.org/wiki/Functional_ultrasound_imaging) and [fMRI](https://en.wikipedia.org/wiki/Functional_magnetic_resonance_imaging).
 
