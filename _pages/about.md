@@ -19,6 +19,11 @@ For this, we develop deep learning algorithms to decode and model brain activity
 
 Press:
 ====
+- [Yahoo! Finance](https://finance.yahoo.com/news/big-tech-sees-neurotechnology-as-its-next-ai-frontier-100022978.html?guccounter=1): Big Tech sees neurotechnology as its next AI frontier.
+- [France Culture: La Science CQFD](https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/joelle-pineau-mettre-les-points-sur-les-ia-2857321): Mettre les points sur les IA.
+- [Le Monde](https://www.lemonde.fr/en/science/article/2023/10/20/artificial-intelligence-decodes-images-perceived-by-the-human-brain_6189447_10.html): Artificial Intelligence deciphers images perceived by the human brain
+- [Epsiloon Podcast](https://www.epsiloon.com/podcasts.html): Dans la tete de l'IA la plus puissante du monde.
+- [Meta AI](https://ai.meta.com/blog/brain-ai-image-decoding-meg-magnetoencephalography/): Toward a real-time decoding of images from brain activity.
 - [Time Magazine](https://time.com/6210261/meta-ai-brains-speech/): Meta Is Building AI That Reads Brainwaves. The Reality, So Far, Is Messy.
 - [Meta AI](https://ai.facebook.com/blog/ai-speech-brain-activity/): Using AI to decode speech from brain activity.
 - [Pour la Science](https://www.pourlascience.fr/sd/informatique/quand-les-ia-miment-l-activite-cerebrale-24554.php): Quand les IA miment l’activité cérébrale.
@@ -33,6 +38,43 @@ Press:
 
 Visual summaries:
 ====
+
+
+<details markdown=block>
+<summary markdown=span>Brain decoding: toward real-time reconstruction of visual perception,
+<i>[ICLR](https://openreview.net/forum?id=3y1K6buO8c)</i> 2024 👇
+</summary>
+By [Benchetrit*](https://www.linkedin.com/in/yohann-benchetrit?originalSubdomain=fr), [Banville*](https://hubertjb.github.io/) and [King](https://kingjr.github.io/),
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We’re very happy to share our latest study:<br><br>‘Brain decoding: toward real-time reconstruction of visual perception’<br><br>led by <a href="https://twitter.com/BenchetritYoha1?ref_src=twsrc%5Etfw">@BenchetritYoha1</a> &amp; <a href="https://twitter.com/hubertbanville?ref_src=twsrc%5Etfw">@HubertBanville</a><br><br>- paper: <a href="https://t.co/HaqClxPiLt">https://t.co/HaqClxPiLt</a><br>- blog: <a href="https://t.co/py2AjqDlmQ">https://t.co/py2AjqDlmQ</a><br>- summary: ⬇️ <a href="https://t.co/Btg5CfmKaW">pic.twitter.com/Btg5CfmKaW</a></p>&mdash; Jean-Rémi King (@JeanRemiKing) <a href="https://twitter.com/JeanRemiKing/status/1714657951242199413?ref_src=twsrc%5Etfw">October 18, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</details>
+
+<details markdown=block>
+<summary markdown=span>Negation mitigates rather than inverts the neural representations of adjectives,
+<i>[Plos Biology](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002622)</i> 2024 👇
+</summary>
+By [Arianna Zuanazzi](https://sites.google.com/site/ariannazuanazzi) and team,
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">How the brain compose minimal phrases. <br>Go check out <a href="https://twitter.com/AriannaZuanazzi?ref_src=twsrc%5Etfw">@AriannaZuanazzi</a> &#39;s study <a href="https://t.co/NkH4RzLUEZ">https://t.co/NkH4RzLUEZ</a> <a href="https://t.co/UVm4QOkHRT">pic.twitter.com/UVm4QOkHRT</a></p>&mdash; Jean-Rémi King (@JeanRemiKing) <a href="https://twitter.com/JeanRemiKing/status/1797876586496327949?ref_src=twsrc%5Etfw">June 4, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</details>
+
+<details markdown=block>
+<summary markdown=span>Hierarchical dynamic coding coordinates speech comprehension in the brain,
+<i>[bioRxiv](https://www.biorxiv.org/content/10.1101/2024.04.19.590280v1)</i> 2024 👇
+</summary>
+By [Laura Gwilliams](https://lauragwilliams.github.io/) and team
+
+<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">Delighted to share our new preprint! with <a href="https://twitter.com/AlecMarantz?ref_src=twsrc%5Etfw">@AlecMarantz</a>, <a href="https://twitter.com/davidpoeppel?ref_src=twsrc%5Etfw">@DavidPoeppel</a> and <a href="https://twitter.com/JeanRemiKing?ref_src=twsrc%5Etfw">@JeanRemiKing</a>:<a href="https://t.co/ZHzAX7ksLV">https://t.co/ZHzAX7ksLV</a><br><br>&quot;Hierarchical dynamic coding coordinates speech comprehension in the brain&quot;<br>Summary below 👇<br><br>1/8 <a href="https://t.co/uyVpUdewiY">pic.twitter.com/uyVpUdewiY</a></p>&mdash; Laura Gwilliams (@GwilliamsL) <a href="https://twitter.com/GwilliamsL/status/1781752986160820482?ref_src=twsrc%5Etfw">April 20, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</details>
+
+<details markdown=block>
+<summary markdown=span>Tracking the neural codes for words and phrases during semantic composition, working memory storage and retrieval,
+<i>[Cell Reports](https://www.cell.com/cell-reports/fulltext/S2211-1247(24)00175-X)</i> 2024 👇
+</summary>
+By Desbordes, [Dehaene](https://www.unicog.org/) and & [King](https://kingjr.github.io/)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">New paper from the lab on compositionality, just out in Cell Reports :<br>“Tracking the neural codes for words and phrases during semantic composition, working memory storage and retrieval”<br>Available in open access: <a href="https://t.co/qnRI3tquNj">https://t.co/qnRI3tquNj</a><br>A thread (1/n) <a href="https://t.co/aeshmGX2EV">pic.twitter.com/aeshmGX2EV</a></p>&mdash; Stanislas Dehaene (@StanDehaene) <a href="https://twitter.com/StanDehaene/status/1767590231123857848?ref_src=twsrc%5Etfw">March 12, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</details>
 
 <details markdown=block>
 <summary markdown=span>Evidence of a predictive coding hierarchy in the human brain listening to speech,
