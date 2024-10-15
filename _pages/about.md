@@ -17,15 +17,15 @@ For this, we develop deep learning algorithms to decode and model brain activity
 <img src="/images/millet.gif" />
 </a>
 
-Interventions:
+Media / Public interventions:
 ====
 - [Yahoo! Finance](https://finance.yahoo.com/news/big-tech-sees-neurotechnology-as-its-next-ai-frontier-100022978.html?guccounter=1): Big Tech sees neurotechnology as its next AI frontier.
 - [France Culture: La Science CQFD](https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/joelle-pineau-mettre-les-points-sur-les-ia-2857321): Mettre les points sur les IA.
 - [Le Monde](https://www.lemonde.fr/en/science/article/2023/10/20/artificial-intelligence-decodes-images-perceived-by-the-human-brain_6189447_10.html): Artificial Intelligence deciphers images perceived by the human brain
 - [Epsiloon Podcast](https://www.epsiloon.com/podcasts.html): Dans la tete de l'IA la plus puissante du monde.
-- [Vatican](https://www.youtube.com/watch?v=K2bFXRPj75k): The unreasonable effectiveness of artificial intelligence in the neurosciences.
+- [Pontifical Academy](https://www.youtube.com/watch?v=K2bFXRPj75k): The unreasonable effectiveness of artificial intelligence in the neurosciences.
 - [Meta AI](https://ai.meta.com/blog/brain-ai-image-decoding-meg-magnetoencephalography/): Toward a real-time decoding of images from brain activity.
-- [Les Echos](https://www.lesechos.fr/tech-medias/intelligence-artificielle/dans-lia-une-ecole-francaise-commence-a-emerger-1953208): "Dans le sillage de Yann Lecun, trois autres Francais chercheurs stars de l'IA." (#HumbleTitle...)
+- [Les Echos](https://www.lesechos.fr/tech-medias/intelligence-artificielle/dans-lia-une-ecole-francaise-commence-a-emerger-1953208): "Dans le sillage de Yann Lecun, trois autres Francais chercheurs stars de l'IA." (#HumbleTitleHello)
 - [Time](https://time.com/6210261/meta-ai-brains-speech/): Meta Is Building AI That Reads Brainwaves. The Reality, So Far, Is Messy.
 - [Meta AI](https://ai.facebook.com/blog/ai-speech-brain-activity/): Using AI to decode speech from brain activity.
 - [The Language Neuroscience Podcast](https://langneurosci.org/podcast/): Natural language processing, and the brain.
@@ -39,7 +39,7 @@ Interventions:
 - [CBC News](https://www.cbc.ca/news/science/brain-subliminal-images-1.3879282): Your brain registers more than you think you see, NYU researchers find.
 
 
-Visual summaries:
+Visual summaries of our latest studies:
 ====
 
 
