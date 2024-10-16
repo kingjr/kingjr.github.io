@@ -47,7 +47,7 @@ Visual summaries of our latest studies:
 <summary markdown=span>Brain decoding: toward real-time reconstruction of visual perception,
 <i>[ICLR](https://openreview.net/forum?id=3y1K6buO8c)</i> 2024 👇
 </summary>
-By [Benchetrit](https://www.linkedin.com/in/yohann-benchetrit?originalSubdomain=fr)*, [Banville](https://hubertjb.github.io/) and [King](https://kingjr.github.io/)*,
+By [Benchetrit](https://www.linkedin.com/in/yohann-benchetrit?originalSubdomain=fr), [Banville](https://hubertjb.github.io/) and [King](https://kingjr.github.io/),
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">We’re very happy to share our latest study:<br><br>‘Brain decoding: toward real-time reconstruction of visual perception’<br><br>led by <a href="https://twitter.com/BenchetritYoha1?ref_src=twsrc%5Etfw">@BenchetritYoha1</a> &amp; <a href="https://twitter.com/hubertbanville?ref_src=twsrc%5Etfw">@HubertBanville</a><br><br>- paper: <a href="https://t.co/HaqClxPiLt">https://t.co/HaqClxPiLt</a><br>- blog: <a href="https://t.co/py2AjqDlmQ">https://t.co/py2AjqDlmQ</a><br>- summary: ⬇️ <a href="https://t.co/Btg5CfmKaW">pic.twitter.com/Btg5CfmKaW</a></p>&mdash; Jean-Rémi King (@JeanRemiKing) <a href="https://twitter.com/JeanRemiKing/status/1714657951242199413?ref_src=twsrc%5Etfw">October 18, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </details>
