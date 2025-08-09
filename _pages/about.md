@@ -22,8 +22,7 @@ For this, we develop deep learning algorithms to decode and model brain activity
 <summary markdown=span>
 
 Visual summaries of our latest studies:
-====
-</summar>
+</summary>
 
 <details markdown=block>
 <summary markdown=span>Dynadiff: Single-stage Decoding of Images from Continuously Evolving fMRI,
@@ -329,7 +328,6 @@ By [Gwilliams](https://lauragwilliams.github.io/) & [King](https://kingjr.github
 <details markdown=block>
 <summary markdown=span>
 Public interventions:
-====
 </summary>
 - [BBC Tech Life](https://www.bbc.com/audio/play/w3ct5wnj?env=prod): Decoding the brain
 - [MIT Techonological Review](https://www.technologyreview.com/2025/02/07/1111292/meta-has-an-ai-for-brain-typing-but-its-stuck-in-the-lab/?env=prod): Meta has an AI for brain typing, but it’s stuck in the lab
