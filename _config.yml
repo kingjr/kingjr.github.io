@@ -103,8 +103,8 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/jean-r%C3%A9mi-king-690388247/"
-  mastodon         : "https://mas.to/@jeanremi"
-  orcid            : "http://orcid.org/0000-0002-2121-170X"
+  mastodon         :
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

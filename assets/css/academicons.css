@@ -142,7 +142,13 @@
 .ai-open-access-square:before {
   content: "\e839";
 }
-.ai-orcid:before {
+.ai-bluesky:before {
+  content: "\e840";
+}
+.ai-bluesky-square:before {
+  content: "\e841";
+}
+.ai-bluesky:before {
   content: "\e840";
 }
 .ai-orcid-square:before {
