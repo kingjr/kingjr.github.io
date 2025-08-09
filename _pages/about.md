@@ -51,7 +51,7 @@ Visual summaries of our latest studies:
 <summary markdown=span>Dynadiff: Single-stage Decoding of Images from Continuously Evolving fMRI,
 <i>[arXiv](https://arxiv.org/pdf/2505.14556)</i> 2025 👇
 </summary>
-By [Careil*](https://scholar.google.com/citations?user=NF7PEYAAAAAJ&hl=en), [Benchetrit*](https://www.linkedin.com/in/yohann-benchetrit?originalSubdomain=fr) and [King](https://kingjr.github.io/),
+By [Careil](https://scholar.google.com/citations?user=NF7PEYAAAAAJ&hl=en), [Benchetrit](https://www.linkedin.com/in/yohann-benchetrit?originalSubdomain=fr) and [King](https://kingjr.github.io/),
 <blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:xjurslfzgpdzsluekji74jyg/app.bsky.feed.post/3lprbe3btu22q" data-bluesky-cid="bafyreibuqx3aturwhbohqctlxx2kzpmwwk5c4nwclmf6sfnkiosrfelv7i" data-bluesky-embed-color-mode="system"><p lang="en">Our latest brain-to-image decoding model is now available on HuggingFace: 
 
 &quot;Dynadiff: Single-stage Decoding of Images from Continuously Evolving fMRI&quot;, 
@@ -83,7 +83,7 @@ by L Evanson, P Bourdillon et al:
 
 <details markdown=block>
 <summary markdown=span>Brain-to-Text Decoding: A Non-invasive Approach via Typing,
-<i>[arxiv](https://arxiv.org/abs/2502.17480)</i> 2025 👇
+<i>[arXiv](https://arxiv.org/abs/2502.17480)</i> 2025 👇
 </summary>
 By [Lévy](https://x.com/JarodLevy) et al,
 
@@ -95,7 +95,7 @@ By [Lévy](https://x.com/JarodLevy) et al,
 
 <details markdown=block>
 <summary markdown=span>From Thought to Action: How a Hierarchy of Neural Dynamics Supports Language Production,
-<i>[arxiv](https://arxiv.org/abs/2502.07429)</i> 2025 👇
+<i>[arXiv](https://arxiv.org/abs/2502.07429)</i> 2025 👇
 </summary>
 By Zhang et al,
 
