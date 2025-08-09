@@ -16,7 +16,7 @@ For this, we develop deep learning algorithms to decode and model brain activity
 <style>
 .carousel-container {
   position: relative;
-  max-width: 500px; /* adjust as needed */
+  max-width: 1000px; /* adjust as needed */
   margin: auto;
   overflow: hidden;
 }
@@ -40,7 +40,7 @@ For this, we develop deep learning algorithms to decode and model brain activity
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
-  background: rgba(0,0,0,0.5);
+  background: rgba(255, 255, 255, 1);
   color: white;
   border: none;
   padding: 10px;
@@ -78,7 +78,7 @@ For this, we develop deep learning algorithms to decode and model brain activity
 <script>
 const slide = document.getElementById('carouselSlide');
 const images = slide.querySelectorAll('a');
-let counter = 0;
+let counter = Math.floor(Math.random() * images.length);
 
 document.getElementById('nextBtn').addEventListener('click', () => {
   counter = (counter + 1) % images.length;
