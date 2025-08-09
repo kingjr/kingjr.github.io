@@ -13,21 +13,83 @@ I am a CNRS researcher at [École Normale Supérieure](https://lsp.dec.ens.fr/fr
 This team aims to identify the brain and computational bases of human intelligence, with a focus on language.
 For this, we develop deep learning algorithms to decode and model brain activity recorded with [MEG](https://en.wikipedia.org/wiki/Magnetoencephalography), [EEG](https://en.wikipedia.org/wiki/Electroencephalography), [electrophysiology](https://en.wikipedia.org/wiki/Electrophysiology) and [fMRI](https://en.wikipedia.org/wiki/Functional_magnetic_resonance_imaging).
 
-<a href='https://twitter.com/JeanRemiKing/status/1533720262344073218'>
-<img src="/images/millet.gif" />
-</a>
+<style>
+.carousel-container {
+  position: relative;
+  max-width: 500px; /* adjust as needed */
+  margin: auto;
+  overflow: hidden;
+}
 
-<a href='https://ai.meta.com/research/publications/emergence-of-language-in-the-developing-brain/'>
-<img src="/images/evanson.gif" />
-</a>
+.carousel-slide {
+  display: flex;
+  transition: transform 0.4s ease-in-out;
+}
 
-<a href='https://arxiv.org/abs/2502.17480'>
-<img src="/images/short_jarod.gif" />
-</a>
+.carousel-slide a {
+  min-width: 100%;
+  box-sizing: border-box;
+}
 
-<a href='https://arxiv.org/abs/2502.07429'>
-<img src="/images/short_lucy.gif" />
-</a>
+.carousel-slide img {
+  width: 100%;
+  display: block;
+}
+
+.carousel-btn {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: rgba(0,0,0,0.5);
+  color: white;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+}
+
+#prevBtn {
+  left: 10px;
+}
+
+#nextBtn {
+  right: 10px;
+}
+</style>
+
+<div class="carousel-container">
+  <div class="carousel-slide" id="carouselSlide">
+    <a href='https://twitter.com/JeanRemiKing/status/1533720262344073218'>
+      <img src="/images/millet.gif" alt="Millet">
+    </a>
+    <a href='https://ai.meta.com/research/publications/emergence-of-language-in-the-developing-brain/'>
+      <img src="/images/evanson.gif" alt="Evanson">
+    </a>
+    <a href='https://arxiv.org/abs/2502.17480'>
+      <img src="/images/short_jarod.gif" alt="Jarod">
+    </a>
+    <a href='https://arxiv.org/abs/2502.07429'>
+      <img src="/images/short_lucy.gif" alt="Lucy">
+    </a>
+  </div>
+  <button class="carousel-btn" id="prevBtn">&#10094;</button>
+  <button class="carousel-btn" id="nextBtn">&#10095;</button>
+</div>
+
+<script>
+const slide = document.getElementById('carouselSlide');
+const images = slide.querySelectorAll('a');
+let counter = 0;
+
+document.getElementById('nextBtn').addEventListener('click', () => {
+  counter = (counter + 1) % images.length;
+  slide.style.transform = `translateX(-${counter * 100}%)`;
+});
+
+document.getElementById('prevBtn').addEventListener('click', () => {
+  counter = (counter - 1 + images.length) % images.length;
+  slide.style.transform = `translateX(-${counter * 100}%)`;
+});
+</script>
 
 
 <details markdown=block>
