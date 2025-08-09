@@ -17,33 +17,6 @@ For this, we develop deep learning algorithms to decode and model brain activity
 <img src="/images/millet.gif" />
 </a>
 
-Public interventions:
-====
-- [BBC Tech Life](https://www.bbc.com/audio/play/w3ct5wnj?env=prod): Decoding the brain
-- [MIT Techonological Review](https://www.technologyreview.com/2025/02/07/1111292/meta-has-an-ai-for-brain-typing-but-its-stuck-in-the-lab/?env=prod): Meta has an AI for brain typing, but it’s stuck in the lab
-- [France Info](https://www.radiofrance.fr/franceinfo/podcasts/aujourd-hui-c-est-demain/meta-met-au-point-une-technique-permettant-d-ecrire-une-phrase-par-la-pensee-sans-avoir-recours-a-un-implant-cerebral-4382951?env=prod): Meta met au point une technique permettant d'écrire une phrase par la pensée, sans avoir recours à un implant cérébral
-- [World Science Festival](https://www.youtube.com/watch?v=HX0C3qxZggY&env=prod): The little voice in our head.
-- [France TV documentary](https://www.france.tv/documentaires/documentaires-societe/l-homme-a-la-machine/): L'Homme à la Machine
-- [Yahoo! Finance](https://finance.yahoo.com/news/big-tech-sees-neurotechnology-as-its-next-ai-frontier-100022978.html?guccounter=1): Big Tech sees neurotechnology as its next AI frontier.
-- [France Culture: La Science CQFD](https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/joelle-pineau-mettre-les-points-sur-les-ia-2857321): Mettre les points sur les IA.
-- [Le Monde](https://www.lemonde.fr/en/science/article/2023/10/20/artificial-intelligence-decodes-images-perceived-by-the-human-brain_6189447_10.html): Artificial Intelligence deciphers images perceived by the human brain
-- [Epsiloon Podcast](https://www.epsiloon.com/podcasts.html): Dans la tête de l'IA la plus puissante du monde.
-- [Pontifical Academy](https://www.youtube.com/watch?v=K2bFXRPj75k): The unreasonable effectiveness of artificial intelligence in the neurosciences.
-- [Meta AI](https://ai.meta.com/blog/brain-ai-image-decoding-meg-magnetoencephalography/): Toward a real-time decoding of images from brain activity.
-- [Les Echos](https://www.lesechos.fr/tech-medias/intelligence-artificielle/dans-lia-une-ecole-francaise-commence-a-emerger-1953208): "Dans le sillage de Yann Lecun, trois autres Francais chercheurs stars de l'IA." (#HumbleTitleHello)
-- [Time](https://time.com/6210261/meta-ai-brains-speech/): Meta Is Building AI That Reads Brainwaves. The Reality, So Far, Is Messy.
-- [Meta AI](https://ai.facebook.com/blog/ai-speech-brain-activity/): Using AI to decode speech from brain activity.
-- [The Language Neuroscience Podcast](https://langneurosci.org/podcast/): Natural language processing, and the brain.
-- [Pour la Science](https://www.pourlascience.fr/sd/informatique/quand-les-ia-miment-l-activite-cerebrale-24554.php): Quand les IA miment l’activité cérébrale.
-- [La Recherche](https://www.larecherche.fr/decrypter-les-reseaux-du-langage-dans-le-cerveau): Décrypter les réseaux du langage dans le cerveau.
-- [Towards Data Science Podcast](https://towardsdatascience.com/does-the-brain-run-on-deep-learning-3fbaf20e9d12): Does the brain run on deep learning?
-- [Quanta](https://www.quantamagazine.org/self-taught-ai-shows-similarities-to-how-the-brain-works-20220811/): Self-Taught AI Shows Similarities to How the Brain Works.
-- [Meta AI](https://ai.facebook.com/blog/studying-the-brain-to-build-ai-that-processes-language-as-people-do/): Studying the brain to build AI that processes language as people do.
-- [Ecole Normale Supérieure](https://www.ens.psl.eu/actualites/jean-remi-king-entre-ia-et-neurosciences): Jean-Rémi King, entre I.A. et neurosciences ([video](https://www.youtube.com/watch?v=KH2vUuU6bWo))
-- [New York Times](https://www.nytimes.com/2019/06/26/health/brain-injury-eeg-consciousness.html): ‘It’s Gigantic’: A New Way to Gauge the Chances for Unresponsive Patients
-- [CBC News](https://www.cbc.ca/news/science/brain-subliminal-images-1.3879282): Your brain registers more than you think you see, NYU researchers find.
-
-
 Visual summaries of our latest studies:
 ====
 
@@ -345,3 +318,32 @@ By [Gwilliams](https://lauragwilliams.github.io/) & [King](https://kingjr.github
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">0/9: &quot;Recurrent Processes Emulate a Cascade of Hierarchical Decisions&quot;, by <a href="https://twitter.com/GwilliamsL?ref_src=twsrc%5Etfw">@GwilliamsL</a> and I, the tl;dr thread:</p>&mdash; Jean-Rémi King (@JeanRemiKing) <a href="https://twitter.com/JeanRemiKing/status/1195380469031792641?ref_src=twsrc%5Etfw">November 15, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">3/9 Their average brain response confirm a fast feedforward recruitment of their visual hierarchies <a href="https://t.co/Y39WYwJ2Yx">pic.twitter.com/Y39WYwJ2Yx</a></p>&mdash; Jean-Rémi King (@JeanRemiKing) <a href="https://twitter.com/JeanRemiKing/status/1195380648560615425?ref_src=twsrc%5Etfw">November 15, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </details>
+
+
+
+Public interventions:
+====
+- [BBC Tech Life](https://www.bbc.com/audio/play/w3ct5wnj?env=prod): Decoding the brain
+- [MIT Techonological Review](https://www.technologyreview.com/2025/02/07/1111292/meta-has-an-ai-for-brain-typing-but-its-stuck-in-the-lab/?env=prod): Meta has an AI for brain typing, but it’s stuck in the lab
+- [France Info](https://www.radiofrance.fr/franceinfo/podcasts/aujourd-hui-c-est-demain/meta-met-au-point-une-technique-permettant-d-ecrire-une-phrase-par-la-pensee-sans-avoir-recours-a-un-implant-cerebral-4382951?env=prod): Meta met au point une technique permettant d'écrire une phrase par la pensée, sans avoir recours à un implant cérébral
+- [World Science Festival](https://www.youtube.com/watch?v=HX0C3qxZggY&env=prod): The little voice in our head.
+- [France TV documentary](https://www.france.tv/documentaires/documentaires-societe/l-homme-a-la-machine/): L'Homme à la Machine
+- [Yahoo! Finance](https://finance.yahoo.com/news/big-tech-sees-neurotechnology-as-its-next-ai-frontier-100022978.html?guccounter=1): Big Tech sees neurotechnology as its next AI frontier.
+- [France Culture: La Science CQFD](https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/joelle-pineau-mettre-les-points-sur-les-ia-2857321): Mettre les points sur les IA.
+- [Le Monde](https://www.lemonde.fr/en/science/article/2023/10/20/artificial-intelligence-decodes-images-perceived-by-the-human-brain_6189447_10.html): Artificial Intelligence deciphers images perceived by the human brain
+- [Epsiloon Podcast](https://www.epsiloon.com/podcasts.html): Dans la tête de l'IA la plus puissante du monde.
+- [Pontifical Academy](https://www.youtube.com/watch?v=K2bFXRPj75k): The unreasonable effectiveness of artificial intelligence in the neurosciences.
+- [Meta AI](https://ai.meta.com/blog/brain-ai-image-decoding-meg-magnetoencephalography/): Toward a real-time decoding of images from brain activity.
+- [Les Echos](https://www.lesechos.fr/tech-medias/intelligence-artificielle/dans-lia-une-ecole-francaise-commence-a-emerger-1953208): "Dans le sillage de Yann Lecun, trois autres Francais chercheurs stars de l'IA." (#HumbleTitleHello)
+- [Time](https://time.com/6210261/meta-ai-brains-speech/): Meta Is Building AI That Reads Brainwaves. The Reality, So Far, Is Messy.
+- [Meta AI](https://ai.facebook.com/blog/ai-speech-brain-activity/): Using AI to decode speech from brain activity.
+- [The Language Neuroscience Podcast](https://langneurosci.org/podcast/): Natural language processing, and the brain.
+- [Pour la Science](https://www.pourlascience.fr/sd/informatique/quand-les-ia-miment-l-activite-cerebrale-24554.php): Quand les IA miment l’activité cérébrale.
+- [La Recherche](https://www.larecherche.fr/decrypter-les-reseaux-du-langage-dans-le-cerveau): Décrypter les réseaux du langage dans le cerveau.
+- [Towards Data Science Podcast](https://towardsdatascience.com/does-the-brain-run-on-deep-learning-3fbaf20e9d12): Does the brain run on deep learning?
+- [Quanta](https://www.quantamagazine.org/self-taught-ai-shows-similarities-to-how-the-brain-works-20220811/): Self-Taught AI Shows Similarities to How the Brain Works.
+- [Meta AI](https://ai.facebook.com/blog/studying-the-brain-to-build-ai-that-processes-language-as-people-do/): Studying the brain to build AI that processes language as people do.
+- [Ecole Normale Supérieure](https://www.ens.psl.eu/actualites/jean-remi-king-entre-ia-et-neurosciences): Jean-Rémi King, entre I.A. et neurosciences ([video](https://www.youtube.com/watch?v=KH2vUuU6bWo))
+- [New York Times](https://www.nytimes.com/2019/06/26/health/brain-injury-eeg-consciousness.html): ‘It’s Gigantic’: A New Way to Gauge the Chances for Unresponsive Patients
+- [CBC News](https://www.cbc.ca/news/science/brain-subliminal-images-1.3879282): Your brain registers more than you think you see, NYU researchers find.
+
