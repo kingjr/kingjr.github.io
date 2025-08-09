@@ -45,7 +45,6 @@ For this, we develop deep learning algorithms to decode and model brain activity
   border: none;
   padding: 10px;
   cursor: pointer;
-  z-index: 10; /* ensures they appear above images */
 }
 
 #prevBtn {
@@ -79,7 +78,7 @@ For this, we develop deep learning algorithms to decode and model brain activity
 <script>
 const slide = document.getElementById('carouselSlide');
 const images = slide.querySelectorAll('a');
-let counter = Math.floor(Math.random() * images.length);
+let counter = 0;
 
 document.getElementById('nextBtn').addEventListener('click', () => {
   counter = (counter + 1) % images.length;
