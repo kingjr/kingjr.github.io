@@ -17,8 +17,13 @@ For this, we develop deep learning algorithms to decode and model brain activity
 <img src="/images/millet.gif" />
 </a>
 
+
+<details markdown=block>
+<summary markdown=span>
+
 Visual summaries of our latest studies:
 ====
+</summar>
 
 <details markdown=block>
 <summary markdown=span>Dynadiff: Single-stage Decoding of Images from Continuously Evolving fMRI,
@@ -319,10 +324,13 @@ By [Gwilliams](https://lauragwilliams.github.io/) & [King](https://kingjr.github
 <blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">3/9 Their average brain response confirm a fast feedforward recruitment of their visual hierarchies <a href="https://t.co/Y39WYwJ2Yx">pic.twitter.com/Y39WYwJ2Yx</a></p>&mdash; Jean-Rémi King (@JeanRemiKing) <a href="https://twitter.com/JeanRemiKing/status/1195380648560615425?ref_src=twsrc%5Etfw">November 15, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </details>
 
+</details>
 
-
+<details markdown=block>
+<summary markdown=span>
 Public interventions:
 ====
+</summary>
 - [BBC Tech Life](https://www.bbc.com/audio/play/w3ct5wnj?env=prod): Decoding the brain
 - [MIT Techonological Review](https://www.technologyreview.com/2025/02/07/1111292/meta-has-an-ai-for-brain-typing-but-its-stuck-in-the-lab/?env=prod): Meta has an AI for brain typing, but it’s stuck in the lab
 - [France Info](https://www.radiofrance.fr/franceinfo/podcasts/aujourd-hui-c-est-demain/meta-met-au-point-une-technique-permettant-d-ecrire-une-phrase-par-la-pensee-sans-avoir-recours-a-un-implant-cerebral-4382951?env=prod): Meta met au point une technique permettant d'écrire une phrase par la pensée, sans avoir recours à un implant cérébral
@@ -347,3 +355,4 @@ Public interventions:
 - [New York Times](https://www.nytimes.com/2019/06/26/health/brain-injury-eeg-consciousness.html): ‘It’s Gigantic’: A New Way to Gauge the Chances for Unresponsive Patients
 - [CBC News](https://www.cbc.ca/news/science/brain-subliminal-images-1.3879282): Your brain registers more than you think you see, NYU researchers find.
 
+</details>
