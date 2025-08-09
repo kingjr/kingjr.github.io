@@ -17,12 +17,17 @@ For this, we develop deep learning algorithms to decode and model brain activity
 <img src="/images/millet.gif" />
 </a>
 
-Media / Public interventions:
+Public interventions:
 ====
+- [BBC Tech Life](https://www.bbc.com/audio/play/w3ct5wnj?env=prod): Decoding the brain
+- [MIT Techonological Review](https://www.technologyreview.com/2025/02/07/1111292/meta-has-an-ai-for-brain-typing-but-its-stuck-in-the-lab/?env=prod): Meta has an AI for brain typing, but it’s stuck in the lab
+- [France Info](https://www.radiofrance.fr/franceinfo/podcasts/aujourd-hui-c-est-demain/meta-met-au-point-une-technique-permettant-d-ecrire-une-phrase-par-la-pensee-sans-avoir-recours-a-un-implant-cerebral-4382951?env=prod): Meta met au point une technique permettant d'écrire une phrase par la pensée, sans avoir recours à un implant cérébral
+- [World Science Festival](https://www.youtube.com/watch?v=HX0C3qxZggY&env=prod): The little voice in our head.
+- [France TV documentary](https://www.france.tv/documentaires/documentaires-societe/l-homme-a-la-machine/): L'Homme à la Machine
 - [Yahoo! Finance](https://finance.yahoo.com/news/big-tech-sees-neurotechnology-as-its-next-ai-frontier-100022978.html?guccounter=1): Big Tech sees neurotechnology as its next AI frontier.
 - [France Culture: La Science CQFD](https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/joelle-pineau-mettre-les-points-sur-les-ia-2857321): Mettre les points sur les IA.
 - [Le Monde](https://www.lemonde.fr/en/science/article/2023/10/20/artificial-intelligence-decodes-images-perceived-by-the-human-brain_6189447_10.html): Artificial Intelligence deciphers images perceived by the human brain
-- [Epsiloon Podcast](https://www.epsiloon.com/podcasts.html): Dans la tete de l'IA la plus puissante du monde.
+- [Epsiloon Podcast](https://www.epsiloon.com/podcasts.html): Dans la tête de l'IA la plus puissante du monde.
 - [Pontifical Academy](https://www.youtube.com/watch?v=K2bFXRPj75k): The unreasonable effectiveness of artificial intelligence in the neurosciences.
 - [Meta AI](https://ai.meta.com/blog/brain-ai-image-decoding-meg-magnetoencephalography/): Toward a real-time decoding of images from brain activity.
 - [Les Echos](https://www.lesechos.fr/tech-medias/intelligence-artificielle/dans-lia-une-ecole-francaise-commence-a-emerger-1953208): "Dans le sillage de Yann Lecun, trois autres Francais chercheurs stars de l'IA." (#HumbleTitleHello)
@@ -41,6 +46,109 @@ Media / Public interventions:
 
 Visual summaries of our latest studies:
 ====
+
+<details markdown=block>
+<summary markdown=span>Dynadiff: Single-stage Decoding of Images from Continuously Evolving fMRI,
+<i>[arXiv](https://arxiv.org/pdf/2505.14556)</i> 2025 👇
+</summary>
+By [Careil*](https://scholar.google.com/citations?user=NF7PEYAAAAAJ&hl=en), [Benchetrit*](https://www.linkedin.com/in/yohann-benchetrit?originalSubdomain=fr) and [King](https://kingjr.github.io/),
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:xjurslfzgpdzsluekji74jyg/app.bsky.feed.post/3lprbe3btu22q" data-bluesky-cid="bafyreibuqx3aturwhbohqctlxx2kzpmwwk5c4nwclmf6sfnkiosrfelv7i" data-bluesky-embed-color-mode="system"><p lang="en">Our latest brain-to-image decoding model is now available on HuggingFace: 
+
+&quot;Dynadiff: Single-stage Decoding of Images from Continuously Evolving fMRI&quot;, 
+
+led by Marlène Careil and Yohann Benchetrit:
+
+- Paper: arxiv.org/pdf/2505.14556 
+- Github: github.com/facebookrese...
+- Thread: 👇<br><br><a href="https://bsky.app/profile/did:plc:xjurslfzgpdzsluekji74jyg/post/3lprbe3btu22q?ref_src=embed">[image or embed]</a></p>&mdash; Jean-Rémi King (<a href="https://bsky.app/profile/did:plc:xjurslfzgpdzsluekji74jyg?ref_src=embed">@jeanremiking.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:xjurslfzgpdzsluekji74jyg/post/3lprbe3btu22q?ref_src=embed">May 22, 2025 at 3:55 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+</details>
+
+
+
+<details markdown=block>
+<summary markdown=span>Emergence of Language in the Developing Brain,
+<i>[pdf](https://ai.meta.com/research/publications/emergence-of-language-in-the-developing-brain/)</i> 2025 👇
+</summary>
+By [Evanson](https://scholar.google.com/citations?user=VgTpOTIAAAAJ&hl=en) et al,
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:xjurslfzgpdzsluekji74jyg/app.bsky.feed.post/3lp7v4ffgwk2b" data-bluesky-cid="bafyreie2jfosickokku5pfqyrv4wldoqnugf3wjlgacw5wwnkvxanaizli" data-bluesky-embed-color-mode="system"><p lang="en">I&#x27;m very pleased to share our latest study:
+‘Emergence of Language in the Developing Brain’, 
+by L Evanson, P Bourdillon et al:
+- Paper: ai.meta.com/research/pub...
+- Blog: ai.meta.com/blog/meta-fa...
+- Thread below 👇<br><br><a href="https://bsky.app/profile/did:plc:xjurslfzgpdzsluekji74jyg/post/3lp7v4ffgwk2b?ref_src=embed">[image or embed]</a></p>&mdash; Jean-Rémi King (<a href="https://bsky.app/profile/did:plc:xjurslfzgpdzsluekji74jyg?ref_src=embed">@jeanremiking.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:xjurslfzgpdzsluekji74jyg/post/3lp7v4ffgwk2b?ref_src=embed">May 15, 2025 at 6:00 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+
+</details>
+
+
+
+<details markdown=block>
+<summary markdown=span>Brain-to-Text Decoding: A Non-invasive Approach via Typing,
+<i>[arxiv](https://arxiv.org/abs/2502.17480)</i> 2025 👇
+</summary>
+By [Lévy](https://x.com/JarodLevy) et al,
+
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:xjurslfzgpdzsluekji74jyg/app.bsky.feed.post/3lj3mtfbcpk2b" data-bluesky-cid="bafyreifmqk5wsgovfv3atpsvyvboagtfxbpkmna24but6nhk4fhrllef4y" data-bluesky-embed-color-mode="system"><p lang="en">Our Brain-to-Text study is now on arXiv, check out the thread! 👇<br><br><a href="https://bsky.app/profile/did:plc:xjurslfzgpdzsluekji74jyg/post/3lj3mtfbcpk2b?ref_src=embed">[image or embed]</a></p>&mdash; Jean-Rémi King (<a href="https://bsky.app/profile/did:plc:xjurslfzgpdzsluekji74jyg?ref_src=embed">@jeanremiking.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:xjurslfzgpdzsluekji74jyg/post/3lj3mtfbcpk2b?ref_src=embed">Feb 26, 2025 at 3:50 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+
+</details>
+
+
+
+<details markdown=block>
+<summary markdown=span>From Thought to Action: How a Hierarchy of Neural Dynamics Supports Language Production,
+<i>[arxiv](https://arxiv.org/abs/2502.07429)</i> 2025 👇
+</summary>
+By Zhang et al,
+
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:xjurslfzgpdzsluekji74jyg/app.bsky.feed.post/3lihiyulawk2z" data-bluesky-cid="bafyreifigq336cfqmd5srhk6q2j353h2kiwjg6xkoqdljtomrh2dkdbwba" data-bluesky-embed-color-mode="system"><p lang="en">The thread from our latest study:<br><br><a href="https://bsky.app/profile/did:plc:xjurslfzgpdzsluekji74jyg/post/3lihiyulawk2z?ref_src=embed">[image or embed]</a></p>&mdash; Jean-Rémi King (<a href="https://bsky.app/profile/did:plc:xjurslfzgpdzsluekji74jyg?ref_src=embed">@jeanremiking.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:xjurslfzgpdzsluekji74jyg/post/3lihiyulawk2z?ref_src=embed">Feb 18, 2025 at 3:48 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+
+</details>
+
+
+
+<details markdown=block>
+<summary markdown=span>Exca - Execute and cache seamlessly in python,
+<i>[Github](https://github.com/facebookresearch/exca)</i> 2025 👇
+</summary>
+By [Rapin](https://github.com/jrapin) and [King](https://kingjr.github.io/),
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:xjurslfzgpdzsluekji74jyg/app.bsky.feed.post/3ldiixii56k2v" data-bluesky-cid="bafyreic3n4ksqvrinlcpbup33fr6qi37iv64dlt2vuf3gc7sn7evj4ykfu" data-bluesky-embed-color-mode="system"><p lang="en">Do you use hydra for your ML pipeline?
+
+😡 Wished it was [pure python] / [handling cache] / [simpler to use] ?
+
+😊 Try exca: `pip install exca` !
+
+github.com/facebookrese...<br><br><a href="https://bsky.app/profile/did:plc:xjurslfzgpdzsluekji74jyg/post/3ldiixii56k2v?ref_src=embed">[image or embed]</a></p>&mdash; Jean-Rémi King (<a href="https://bsky.app/profile/did:plc:xjurslfzgpdzsluekji74jyg?ref_src=embed">@jeanremiking.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:xjurslfzgpdzsluekji74jyg/post/3ldiixii56k2v?ref_src=embed">Dec 17, 2024 at 10:14 AM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+
+</details>
+
+
+
+<details markdown=block>
+<summary markdown=span>A polar coordinate system represents syntax in large language models,
+<i>[arXiv](https://arxiv.org/abs/2412.05571)</i> 2024 👇
+</summary>
+By Diego et al,
+
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:xjurslfzgpdzsluekji74jyg/app.bsky.feed.post/3ld4hytemec27" data-bluesky-cid="bafyreihzddxgi34jgm3sgcym3ixcfyg4wg4ysypizgt2dmh7vizwk5pd2a" data-bluesky-embed-color-mode="system"><p lang="en">🚨We&#x27;re very excited to share our latest study, by Pablo Diego and team: 
+
+&quot;A polar coordinate system represents syntax in large language models&quot;,
+
+📄: Paper arxiv.org/abs/2412.05571
+🪧: Poster tomorrow: neurips.cc/virtual/2024...
+🧵: Thread 👇<br><br><a href="https://bsky.app/profile/did:plc:xjurslfzgpdzsluekji74jyg/post/3ld4hytemec27?ref_src=embed">[image or embed]</a></p>&mdash; Jean-Rémi King (<a href="https://bsky.app/profile/did:plc:xjurslfzgpdzsluekji74jyg?ref_src=embed">@jeanremiking.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:xjurslfzgpdzsluekji74jyg/post/3ld4hytemec27?ref_src=embed">Dec 12, 2024 at 3:25 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+
+</details>
+
+
+
+<details markdown=block>
+<summary markdown=span>Hierarchical dynamic coding coordinates speech comprehension in the human brain,
+<i>[bioRxiv](https://pmc.ncbi.nlm.nih.gov/articles/PMC11042271/)</i> 2025 👇
+</summary>
+By [Gwilliams](https://psychology.stanford.edu/people/laura-gwilliams) et al,
+
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:xjurslfzgpdzsluekji74jyg/app.bsky.feed.post/3krkzon4hf22x" data-bluesky-cid="bafyreianze2afclumt7qaoxje7ykerxbzucglyjazd7oxquqrdsfhjeq2i" data-bluesky-embed-color-mode="system"><p lang="en">Go checkout @lauragwilliams.bsky.social &#x27;s latest paper on decoding the hierarchy of language from brain signals!<br><br><a href="https://bsky.app/profile/did:plc:xjurslfzgpdzsluekji74jyg/post/3krkzon4hf22x?ref_src=embed">[image or embed]</a></p>&mdash; Jean-Rémi King (<a href="https://bsky.app/profile/did:plc:xjurslfzgpdzsluekji74jyg?ref_src=embed">@jeanremiking.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:xjurslfzgpdzsluekji74jyg/post/3krkzon4hf22x?ref_src=embed">May 3, 2024 at 9:46 AM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+</details>
+
 
 
 <details markdown=block>
