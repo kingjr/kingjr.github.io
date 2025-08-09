@@ -16,7 +16,7 @@ For this, we develop deep learning algorithms to decode and model brain activity
 <style>
 .carousel-container {
   position: relative;
-  max-width: 1000px; /* adjust as needed */
+  max-width: 800px; /* adjust as needed */
   margin: auto;
   overflow: hidden;
 }
