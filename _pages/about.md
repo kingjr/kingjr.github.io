@@ -45,6 +45,7 @@ For this, we develop deep learning algorithms to decode and model brain activity
   border: none;
   padding: 10px;
   cursor: pointer;
+  z-index: 10; /* ensures they appear above images */
 }
 
 #prevBtn {
