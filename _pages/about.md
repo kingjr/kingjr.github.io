@@ -13,96 +13,40 @@ I am a CNRS researcher at [École Normale Supérieure](https://lsp.dec.ens.fr/fr
 This team aims to identify the brain and computational bases of human intelligence, with a focus on language.
 For this, we develop deep learning algorithms to decode and model brain activity recorded with [MEG](https://en.wikipedia.org/wiki/Magnetoencephalography), [EEG](https://en.wikipedia.org/wiki/Electroencephalography), [electrophysiology](https://en.wikipedia.org/wiki/Electrophysiology) and [fMRI](https://en.wikipedia.org/wiki/Functional_magnetic_resonance_imaging).
 
-
+<title>Image Gallery</title>
 <style>
-.carousel-container {
-  max-width: 1000px; /* your width */
-  margin: auto;
-  overflow: hidden;
-}
-
-.carousel-slide {
-  display: flex;
-  transition: transform 0.4s ease-in-out;
-}
-
-.carousel-slide a {
-  min-width: 100%;
-  box-sizing: border-box;
-}
-
-.carousel-slide img {
-  width: 100%;
-  display: block;
-}
-
-/* Navigation buttons below */
-.carousel-controls {
-  text-align: center;
-  margin-top: 10px;
-}
-
-.carousel-btn {
-  background: #333;
-  color: white;
-  border: none;
-  padding: 8px 16px;
-  cursor: pointer;
-  font-size: 18px;
-  margin: 0 5px;
-}
-
-.carousel-btn:hover {
-  background: #555;
-}
+  .image-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  .image-gallery a img {
+    max-width: 200px;  /* only limit width */
+    height: auto;      /* keep original ratio */
+    border-radius: 8px;
+    cursor: pointer;
+  }
 </style>
+</head>
+<body>
 
-<div class="carousel-container">
-  <div class="carousel-slide" id="carouselSlide">
-    <a href='https://twitter.com/JeanRemiKing/status/1533720262344073218'>
-      <img src="/images/millet.gif" alt="Millet">
-    </a>
-    <a href='https://arxiv.org/pdf/2505.14556'>
-      <img src="/images/dynadiff.gif" alt="Dynadiff">
-    </a>
-    <a href='https://ai.meta.com/research/publications/emergence-of-language-in-the-developing-brain/'>
-      <img src="/images/evanson.gif" alt="Evanson">
-    </a>
-    <a href='https://arxiv.org/abs/2502.17480'>
-      <img src="/images/short_jarod.gif" alt="Jarod">
-    </a>
-    <a href='https://arxiv.org/abs/2502.07429'>
-      <img src="/images/short_lucy.gif" alt="Lucy">
-    </a>
-  </div>
+<div class="image-gallery">
+  <a href="https://twitter.com/JeanRemiKing/status/1533720262344073218">
+    <img src="/images/millet.gif" alt="Millet" title="AI models learns a speech hierarchy similar to the human cortex.">
+  </a>
+  <a href="https://arxiv.org/pdf/2505.14556">
+    <img src="/images/dynadiff.gif" alt="Dynadiff" title="Dynadiff: a single-stage pipeline to decode images from brain activity.">
+  </a>
+  <a href="https://ai.meta.com/research/publications/emergence-of-language-in-the-developing-brain/">
+    <img src="/images/evanson.gif" alt="Evanson" title="Large Language Models help model the development of language in the child brain.">
+  </a>
+  <a href="https://arxiv.org/abs/2502.17480">
+    <img src="/images/short_jarod.gif" alt="Jarod" title="Brain-to-Qwerty: decoding typing from brain signals.">
+  </a>
+  <a href="https://arxiv.org/abs/2502.07429">
+    <img src="/images/short_lucy.gif" alt="Lucy" title="How the brain controls a hierarchy of actions during language production.">
+  </a>
 </div>
-
-<div class="carousel-controls">
-  <button class="carousel-btn" id="prevBtn">&#10094; Prev</button>
-  <button class="carousel-btn" id="nextBtn">Next &#10095;</button>
-</div>
-
-<script>
-document.addEventListener("DOMContentLoaded", function () {
-  const slide = document.getElementById('carouselSlide');
-  const images = slide.querySelectorAll('a');
-
-  // Random starting image
-  let counter = Math.floor(Math.random() * images.length);
-  slide.style.transform = `translateX(-${counter * 100}%)`;
-
-  document.getElementById('nextBtn').addEventListener('click', () => {
-    counter = (counter + 1) % images.length;
-    slide.style.transform = `translateX(-${counter * 100}%)`;
-  });
-
-  document.getElementById('prevBtn').addEventListener('click', () => {
-    counter = (counter - 1 + images.length) % images.length;
-    slide.style.transform = `translateX(-${counter * 100}%)`;
-  });
-});
-</script>
-
 
 <details markdown=block>
 <summary markdown=span>
