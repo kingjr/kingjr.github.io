@@ -13,10 +13,10 @@ I am a CNRS researcher at [École Normale Supérieure](https://lsp.dec.ens.fr/fr
 This team aims to identify the brain and computational bases of human intelligence, with a focus on language.
 For this, we develop deep learning algorithms to decode and model brain activity recorded with [MEG](https://en.wikipedia.org/wiki/Magnetoencephalography), [EEG](https://en.wikipedia.org/wiki/Electroencephalography), [electrophysiology](https://en.wikipedia.org/wiki/Electrophysiology) and [fMRI](https://en.wikipedia.org/wiki/Functional_magnetic_resonance_imaging).
 
+
 <style>
 .carousel-container {
-  position: relative;
-  max-width: 600px; /* adjust as needed */
+  max-width: 1000px; /* your width */
   margin: auto;
   overflow: hidden;
 }
@@ -36,23 +36,24 @@ For this, we develop deep learning algorithms to decode and model brain activity
   display: block;
 }
 
+/* Navigation buttons below */
+.carousel-controls {
+  text-align: center;
+  margin-top: 10px;
+}
+
 .carousel-btn {
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-  background: rgba(255, 255, 255, 1);
+  background: #333;
   color: white;
   border: none;
-  padding: 10px;
+  padding: 8px 16px;
   cursor: pointer;
+  font-size: 18px;
+  margin: 0 5px;
 }
 
-#prevBtn {
-  left: 10px;
-}
-
-#nextBtn {
-  right: 10px;
+.carousel-btn:hover {
+  background: #555;
 }
 </style>
 
@@ -60,6 +61,9 @@ For this, we develop deep learning algorithms to decode and model brain activity
   <div class="carousel-slide" id="carouselSlide">
     <a href='https://twitter.com/JeanRemiKing/status/1533720262344073218'>
       <img src="/images/millet.gif" alt="Millet">
+    </a>
+    <a href='https://arxiv.org/pdf/2505.14556'>
+      <img src="/images/dynadiff.gif" alt="Dynadiff">
     </a>
     <a href='https://ai.meta.com/research/publications/emergence-of-language-in-the-developing-brain/'>
       <img src="/images/evanson.gif" alt="Evanson">
@@ -71,23 +75,31 @@ For this, we develop deep learning algorithms to decode and model brain activity
       <img src="/images/short_lucy.gif" alt="Lucy">
     </a>
   </div>
-  <button class="carousel-btn" id="prevBtn">&#10094;</button>
-  <button class="carousel-btn" id="nextBtn">&#10095;</button>
+</div>
+
+<div class="carousel-controls">
+  <button class="carousel-btn" id="prevBtn">&#10094; Prev</button>
+  <button class="carousel-btn" id="nextBtn">Next &#10095;</button>
 </div>
 
 <script>
-const slide = document.getElementById('carouselSlide');
-const images = slide.querySelectorAll('a');
-let counter = 0;
+document.addEventListener("DOMContentLoaded", function () {
+  const slide = document.getElementById('carouselSlide');
+  const images = slide.querySelectorAll('a');
 
-document.getElementById('nextBtn').addEventListener('click', () => {
-  counter = (counter + 1) % images.length;
+  // Random starting image
+  let counter = Math.floor(Math.random() * images.length);
   slide.style.transform = `translateX(-${counter * 100}%)`;
-});
 
-document.getElementById('prevBtn').addEventListener('click', () => {
-  counter = (counter - 1 + images.length) % images.length;
-  slide.style.transform = `translateX(-${counter * 100}%)`;
+  document.getElementById('nextBtn').addEventListener('click', () => {
+    counter = (counter + 1) % images.length;
+    slide.style.transform = `translateX(-${counter * 100}%)`;
+  });
+
+  document.getElementById('prevBtn').addEventListener('click', () => {
+    counter = (counter - 1 + images.length) % images.length;
+    slide.style.transform = `translateX(-${counter * 100}%)`;
+  });
 });
 </script>
 
@@ -95,7 +107,7 @@ document.getElementById('prevBtn').addEventListener('click', () => {
 <details markdown=block>
 <summary markdown=span>
 
-Visual summaries of our latest studies:
+Visual summaries of some of our latest studies:
 </summary>
 
 <details markdown=block>
