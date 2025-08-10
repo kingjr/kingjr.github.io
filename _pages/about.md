@@ -80,6 +80,33 @@ Some of our latest projects studies:
   </div>
 </div>
 
+<div class="carousel-controls">
+  <button class="carousel-btn" id="prevBtn">&#10094; Prev</button>
+  <button class="carousel-btn" id="nextBtn">Next &#10095;</button>
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const slide = document.getElementById('carouselSlide');
+  const images = slide.querySelectorAll('a');
+
+  // Random starting image
+  let counter = Math.floor(Math.random() * images.length);
+  slide.style.transform = `translateX(-${counter * 100}%)`;
+
+  document.getElementById('nextBtn').addEventListener('click', () => {
+    counter = (counter + 1) % images.length;
+    slide.style.transform = `translateX(-${counter * 100}%)`;
+  });
+
+  document.getElementById('prevBtn').addEventListener('click', () => {
+    counter = (counter - 1 + images.length) % images.length;
+    slide.style.transform = `translateX(-${counter * 100}%)`;
+  });
+});
+</script>
+
+
 
 <details markdown=block>
 <summary markdown=span>
