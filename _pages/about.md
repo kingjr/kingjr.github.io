@@ -62,20 +62,20 @@ Some of our latest projects studies:
 
 <div class="carousel-container">
   <div class="carousel-slide" id="carouselSlide">
+      <a href='https://ai.meta.com/research/publications/emergence-of-language-in-the-developing-brain/'>
+      <img src="/images/evanson.gif" alt="Evanson et al (2025) Large Language Models help model the development of language in the child brain.">
+    </a>
     <a href='https://twitter.com/JeanRemiKing/status/1533720262344073218'>
-      <img src="/images/millet.gif" alt="AI models learns a speech hierarchy similar to the human cortex.">
+      <img src="/images/millet.gif" alt="Millet et al (2022), AI models learns a speech hierarchy similar to the human cortex.">
     </a>
     <a href='https://arxiv.org/pdf/2505.14556'>
-      <img src="/images/dynadiff.gif" alt="Dynadiff: a single-stage pipeline to decode images from brain activity.">
-    </a>
-    <a href='https://ai.meta.com/research/publications/emergence-of-language-in-the-developing-brain/'>
-      <img src="/images/evanson.gif" alt="Large Language Models help model the development of language in the child brain.">
+      <img src="/images/dynadiff.gif" alt="Careil, Benchetrit and King (2025) Dynadiff: a single-stage pipeline to decode images from brain activity.">
     </a>
     <a href='https://arxiv.org/abs/2502.17480'>
-      <img src="/images/short_jarod.gif" alt="Brain-to-Qwerty: decoding typing from brain signals.">
+      <img src="/images/short_jarod.gif" alt="Lévy et al (2025) Brain-to-Qwerty: decoding typing from brain signals.">
     </a>
     <a href='https://arxiv.org/abs/2502.07429'>
-      <img src="/images/short_lucy.gif" alt="How the brain controls a hierarchy of actions during language production.">
+      <img src="/images/short_lucy.gif" alt="Zhang et al (2025) How the brain controls a hierarchy of actions during language production.">
     </a>
   </div>
 </div>
