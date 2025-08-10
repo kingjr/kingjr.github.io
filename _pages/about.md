@@ -13,18 +13,30 @@ I am a CNRS researcher at [École Normale Supérieure](https://lsp.dec.ens.fr/fr
 This team aims to identify the brain and computational bases of human intelligence, with a focus on language.
 For this, we develop deep learning algorithms to decode and model brain activity recorded with [MEG](https://en.wikipedia.org/wiki/Magnetoencephalography), [EEG](https://en.wikipedia.org/wiki/Electroencephalography), [electrophysiology](https://en.wikipedia.org/wiki/Electrophysiology) and [fMRI](https://en.wikipedia.org/wiki/Functional_magnetic_resonance_imaging).
 
-<title>Image Gallery</title>
 <style>
+  
   .image-gallery {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 10px;
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-items: center;
+    gap: 20px;
+    max-width: 1000px;
+    margin: 0 auto;
   }
-  .image-gallery a img {
-    max-width: 200px;  /* only limit width */
-    height: auto;      /* keep original ratio */
+  .image-item {
+    width: 100%;
+    text-align: center;
+  }
+  .image-item img {
+    max-width: 100%;
+    height: auto;
     border-radius: 8px;
     cursor: pointer;
+  }
+  .image-item figcaption {
+    font-size: 1rem;
+    margin-top: 8px;
+    color: #555;
   }
 </style>
 </head>
