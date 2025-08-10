@@ -17,6 +17,8 @@ For this, we develop deep learning algorithms to decode and model brain activity
 Some of our latest projects studies:
 -----
 
+{% raw %}
+
 <style>
 .carousel-container {
   max-width: 1000px; /* your width */
@@ -105,6 +107,8 @@ document.addEventListener("DOMContentLoaded", function () {
   });
 });
 </script>
+
+{% endraw %}
 
 
 
