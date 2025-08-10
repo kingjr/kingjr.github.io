@@ -47,7 +47,7 @@ Some of our latest projects studies:
 }
 
 .carousel-btn {
-  background: #333;
+  background: #bbb;
   color: white;
   border: none;
   padding: 8px 16px;
@@ -57,9 +57,15 @@ Some of our latest projects studies:
 }
 
 .carousel-btn:hover {
-  background: #555;
+  background: #999;
 }
 </style>
+
+
+<div class="carousel-controls">
+  <button class="carousel-btn" id="prevBtn">&#10094; Previous study</button>
+  <button class="carousel-btn" id="nextBtn">Next study &#10095;</button>
+</div>
 
 <div class="carousel-container">
   <div class="carousel-slide" id="carouselSlide">
@@ -81,10 +87,6 @@ Some of our latest projects studies:
   </div>
 </div>
 
-<div class="carousel-controls">
-  <button class="carousel-btn" id="prevBtn">&#10094; Prev</button>
-  <button class="carousel-btn" id="nextBtn">Next &#10095;</button>
-</div>
 
 
 
