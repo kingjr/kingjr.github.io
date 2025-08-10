@@ -13,54 +13,76 @@ I am a CNRS researcher at [École Normale Supérieure](https://lsp.dec.ens.fr/fr
 This team aims to identify the brain and computational bases of human intelligence, with a focus on language.
 For this, we develop deep learning algorithms to decode and model brain activity recorded with [MEG](https://en.wikipedia.org/wiki/Magnetoencephalography), [EEG](https://en.wikipedia.org/wiki/Electroencephalography), [electrophysiology](https://en.wikipedia.org/wiki/Electrophysiology) and [fMRI](https://en.wikipedia.org/wiki/Functional_magnetic_resonance_imaging).
 
+
+Some of our latest projects studies:
+-----
+
 <style>
-  
-  .image-gallery {
-    display: grid;
-    grid-template-columns: 1fr;
-    justify-items: center;
-    gap: 20px;
-    max-width: 1000px;
-    margin: 0 auto;
-  }
-  .image-item {
-    width: 100%;
-    text-align: center;
-  }
-  .image-item img {
-    max-width: 100%;
-    height: auto;
-    border-radius: 8px;
-    cursor: pointer;
-  }
-  .image-item figcaption {
-    font-size: 1rem;
-    margin-top: 8px;
-    color: #555;
-  }
+.carousel-container {
+  max-width: 1000px; /* your width */
+  margin: auto;
+  overflow: hidden;
+}
+
+.carousel-slide {
+  display: flex;
+  transition: transform 0.4s ease-in-out;
+}
+
+.carousel-slide a {
+  min-width: 100%;
+  box-sizing: border-box;
+}
+
+.carousel-slide img {
+  width: 100%;
+  display: block;
+}
+
+/* Navigation buttons below */
+.carousel-controls {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.carousel-btn {
+  background: #333;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  cursor: pointer;
+  font-size: 18px;
+  margin: 0 5px;
+}
+
+.carousel-btn:hover {
+  background: #555;
+}
 </style>
 
-<div class="image-gallery">
-  <a href="https://twitter.com/JeanRemiKing/status/1533720262344073218">
-    <img src="/images/millet.gif" alt="Millet" title="AI models learns a speech hierarchy similar to the human cortex.">
-  </a>
-  <a href="https://arxiv.org/pdf/2505.14556">
-    <img src="/images/dynadiff.gif" alt="Dynadiff" title="Dynadiff: a single-stage pipeline to decode images from brain activity.">
-  </a>
-  <a href="https://ai.meta.com/research/publications/emergence-of-language-in-the-developing-brain/">
-    <img src="/images/evanson.gif" alt="Evanson" title="Large Language Models help model the development of language in the child brain.">
-  </a>
-  <a href="https://arxiv.org/abs/2502.17480">
-    <img src="/images/short_jarod.gif" alt="Jarod" title="Brain-to-Qwerty: decoding typing from brain signals.">
-  </a>
-  <a href="https://arxiv.org/abs/2502.07429">
-    <img src="/images/short_lucy.gif" alt="Lucy" title="How the brain controls a hierarchy of actions during language production.">
-  </a>
+<div class="carousel-container">
+  <div class="carousel-slide" id="carouselSlide">
+    <a href='https://twitter.com/JeanRemiKing/status/1533720262344073218'>
+      <img src="/images/millet.gif" alt="AI models learns a speech hierarchy similar to the human cortex.">
+    </a>
+    <a href='https://arxiv.org/pdf/2505.14556'>
+      <img src="/images/dynadiff.gif" alt="Dynadiff: a single-stage pipeline to decode images from brain activity.">
+    </a>
+    <a href='https://ai.meta.com/research/publications/emergence-of-language-in-the-developing-brain/'>
+      <img src="/images/evanson.gif" alt="Large Language Models help model the development of language in the child brain.">
+    </a>
+    <a href='https://arxiv.org/abs/2502.17480'>
+      <img src="/images/short_jarod.gif" alt="Brain-to-Qwerty: decoding typing from brain signals.">
+    </a>
+    <a href='https://arxiv.org/abs/2502.07429'>
+      <img src="/images/short_lucy.gif" alt="How the brain controls a hierarchy of actions during language production.">
+    </a>
+  </div>
 </div>
+
 
 <details markdown=block>
 <summary markdown=span>
-
 Visual summaries of some of our latest studies:
 </summary>
 
