@@ -39,8 +39,6 @@ For this, we develop deep learning algorithms to decode and model brain activity
     color: #555;
   }
 </style>
-</head>
-<body>
 
 <div class="image-gallery">
   <a href="https://twitter.com/JeanRemiKing/status/1533720262344073218">
